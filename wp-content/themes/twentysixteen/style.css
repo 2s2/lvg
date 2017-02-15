@@ -1508,6 +1508,7 @@ blockquote:after,
 	margin: 0 auto;
 	max-width: 1320px;
 	position: relative;
+	background-color: #fff;
 }
 
 .site-content {
@@ -1549,7 +1550,7 @@ blockquote:after,
 }
 
 .site-branding {
-	margin: 0.875em auto 0.875em 0;
+	margin: 30px 0;
 	/* Avoid overflowing wide custom logo in small screens in Firefox and IEs */
 	max-width: 100%;
 	min-width: 0;
@@ -2707,11 +2708,6 @@ p > video {
 		padding: 20px;
 	}
 
-	.site-branding {
-		margin-top: 1.3125em;
-		margin-bottom: 1.3125em;
-	}
-
 	.custom-logo {
 		max-width: 210px;
 	}
@@ -3348,7 +3344,6 @@ p > video {
 		padding: 20px;
 	}
 
-	.site-branding,
 	.site-header-menu,
 	.header-image {
 		margin-top: 1.75em;
