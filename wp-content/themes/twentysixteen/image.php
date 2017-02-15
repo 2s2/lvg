@@ -9,6 +9,8 @@
 
 get_header(); ?>
 
+<?php get_sidebar(); ?>
+
 	<div id="primary" class="content-area">
 		<main id="main" class="site-main" role="main">
 
@@ -25,6 +27,33 @@ get_header(); ?>
 							<div class="nav-next"><?php next_image_link( false, __( 'Next Image', 'twentysixteen' ) ); ?></div>
 						</div><!-- .nav-links -->
 					</nav><!-- .image-navigation -->
+
+					<footer class="entry-footer">
+						<?php twentysixteen_entry_meta(); ?>
+						<?php
+							// Retrieve attachment metadata.
+							$metadata = wp_get_attachment_metadata();
+							if ( $metadata ) {
+								printf( '<span class="full-size-link"><span class="screen-reader-text">%1$s </span><a href="%2$s">%3$s &times; %4$s</a></span>',
+									esc_html_x( 'Full size', 'Used before full size attachment link.', 'twentysixteen' ),
+									esc_url( wp_get_attachment_url() ),
+									absint( $metadata['width'] ),
+									absint( $metadata['height'] )
+								);
+							}
+						?>
+						<?php
+							edit_post_link(
+								sprintf(
+									/* translators: %s: Name of current post */
+									__( 'Edit<span class="screen-reader-text"> "%s"</span>', 'twentysixteen' ),
+									get_the_title()
+								),
+								'<span class="edit-link">',
+								'</span>'
+							);
+						?>
+					</footer><!-- .entry-footer -->
 
 					<header class="entry-header">
 						<?php the_title( '<h1 class="entry-title">', '</h1>' ); ?>
@@ -62,33 +91,6 @@ get_header(); ?>
 							) );
 						?>
 					</div><!-- .entry-content -->
-
-					<footer class="entry-footer">
-						<?php twentysixteen_entry_meta(); ?>
-						<?php
-							// Retrieve attachment metadata.
-							$metadata = wp_get_attachment_metadata();
-							if ( $metadata ) {
-								printf( '<span class="full-size-link"><span class="screen-reader-text">%1$s </span><a href="%2$s">%3$s &times; %4$s</a></span>',
-									esc_html_x( 'Full size', 'Used before full size attachment link.', 'twentysixteen' ),
-									esc_url( wp_get_attachment_url() ),
-									absint( $metadata['width'] ),
-									absint( $metadata['height'] )
-								);
-							}
-						?>
-						<?php
-							edit_post_link(
-								sprintf(
-									/* translators: %s: Name of current post */
-									__( 'Edit<span class="screen-reader-text"> "%s"</span>', 'twentysixteen' ),
-									get_the_title()
-								),
-								'<span class="edit-link">',
-								'</span>'
-							);
-						?>
-					</footer><!-- .entry-footer -->
 				</article><!-- #post-## -->
 
 				<?php
@@ -108,5 +110,4 @@ get_header(); ?>
 		</main><!-- .site-main -->
 	</div><!-- .content-area -->
 
-<?php get_sidebar(); ?>
 <?php get_footer(); ?>
