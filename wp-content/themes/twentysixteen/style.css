@@ -2730,16 +2730,12 @@ p > video {
 		bottom: 0;
 	}
 
-	.site {
-		margin: 21px;
-	}
-
 	.site-main {
 		margin-bottom: 5.25em;
 	}
 
 	.site-header {
-		padding: 3.9375em 7.6923%;
+		padding: 20px;
 	}
 
 	.site-branding {
@@ -3083,7 +3079,7 @@ p > video {
 	}
 
 	.site-content {
-		padding: 0 4.5455%;
+		padding: 0 20px;
 	}
 
 	.content-area {
@@ -3321,7 +3317,7 @@ p > video {
 		-webkit-flex-wrap: wrap;
 		-ms-flex-wrap: wrap;
 		flex-wrap: wrap;
-		padding: 0 4.5455% 3.5em;
+		padding: 0 20px 20px;
 	}
 
 	.site-footer .social-navigation {
@@ -3376,7 +3372,7 @@ p > video {
 	}
 
 	.site-header {
-		padding: 5.25em 4.5455%;
+		padding: 20px;
 	}
 
 	.site-branding,
