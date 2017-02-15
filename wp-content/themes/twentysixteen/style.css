@@ -1384,9 +1384,7 @@ blockquote:after,
  */
 
 .widget {
-	border-top: 4px solid #1a1a1a;
-	margin-bottom: 3.5em;
-	padding-top: 1.75em;
+	margin-bottom: 40px;
 }
 
 .widget-area > :last-child,
@@ -1396,12 +1394,9 @@ blockquote:after,
 
 .widget .widget-title {
 	font-family: Montserrat, "Helvetica Neue", sans-serif;
-	font-size: 16px;
-	font-size: 1rem;
-	letter-spacing: 0.046875em;
-	line-height: 1.3125;
-	margin: 0 0 1.75em;
-	text-transform: uppercase;
+	font-size: 22px;
+	letter-spacing: 0.5px;
+	font-weight: normal;;
 }
 
 .widget .widget-title:empty {
@@ -2704,32 +2699,6 @@ p > video {
 /**
  * 14.1 - >= 710px
  */
-
-@media screen and (min-width: 44.375em) {
-	body:not(.custom-background-image):before,
-	body:not(.custom-background-image):after {
-		background: inherit;
-		content: "";
-		display: block;
-		height: 21px;
-		left: 0;
-		position: fixed;
-		width: 100%;
-		z-index: 99;
-	}
-
-	body:not(.custom-background-image):before {
-		top: 0;
-	}
-
-	body:not(.custom-background-image).admin-bar:before {
-		top: 46px;
-	}
-
-	body:not(.custom-background-image):after {
-		bottom: 0;
-	}
-
 	.site-main {
 		margin-bottom: 5.25em;
 	}
@@ -3112,15 +3081,11 @@ p > video {
 	}
 
 	.widget {
-		font-size: 13px;
-		font-size: 0.8125rem;
-		line-height: 1.6153846154;
-		margin-bottom: 3.230769231em;
-		padding-top: 1.615384615em;
+		margin-bottom: 40px;
 	}
 
 	.widget .widget-title {
-		margin-bottom: 1.3125em;
+		margin-bottom: 15px;
 	}
 
 	.widget p,
@@ -3131,7 +3096,15 @@ p > video {
 	.widget dl,
 	.widget dd,
 	.widget table {
-		margin-bottom: 1.6153846154em;
+		margin-bottom: 15px;
+	}
+
+	.widget ul,
+	.widget ol,
+	.widget dl,
+	.widget dd {
+		list-style: none;
+		margin-left: 0;
 	}
 
 	.widget li > ul,
@@ -3396,10 +3369,6 @@ p > video {
 
 	.pagination {
 		margin-bottom: 5.894736842em;
-	}
-
-	.widget {
-		margin-bottom: 4.307692308em;
 	}
 
 	.site-main > article {
