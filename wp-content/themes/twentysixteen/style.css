@@ -593,7 +593,6 @@ input[type="submit"][disabled]:focus {
 	color: #007acc !important;
 	background: #fff;
 	font-family: Montserrat, "Helvetica Neue", sans-serif;
-	font-weight: 700;
 	letter-spacing: 0.046875em;
 	line-height: 1;
 	padding: 0.84375em 0.875em 0.78125em;
@@ -631,7 +630,6 @@ textarea {
 	background: #f7f7f7;
 	background-image: -webkit-linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0));
 	border: 1px solid #d1d1d1;
-	border-radius: 2px;
 	color: #686868;
 	padding: 0.625em 0.4375em;
 	width: 100%;
@@ -680,7 +678,6 @@ textarea:focus {
 }
 
 input[type="search"].search-field {
-	border-radius: 2px 0 0 2px;
 	width: -webkit-calc(100% - 42px);
 	width: calc(100% - 42px);
 }
@@ -695,7 +692,6 @@ input[type="search"].search-field {
 }
 
 .search-submit {
-	border-radius: 0 2px 2px 0;
 	bottom: 0;
 	overflow: hidden;
 	padding: 0;
@@ -717,6 +713,7 @@ input[type="search"].search-field {
 a {
 	color: #007acc;
 	text-decoration: none;
+	outline: none;
 }
 
 a:hover,
@@ -1033,8 +1030,8 @@ a:active {
 }
 
 .post-navigation {
-	border-top: 4px solid #1a1a1a;
-	border-bottom: 4px solid #1a1a1a;
+	border-top: 1px solid #e3e3e3;
+	border-bottom: 1px solid #e3e3e3;
 	clear: both;
 	font-family: Montserrat, "Helvetica Neue", sans-serif;
 	margin: 0 7.6923% 3.5em;
@@ -1065,8 +1062,6 @@ a:active {
 	font-family: Montserrat, "Helvetica Neue", sans-serif;
 	font-size: 23px;
 	font-size: 1.4375rem;
-	font-weight: 700;
-	line-height: 1.2173913043;
 	text-rendering: optimizeLegibility;
 }
 
@@ -1075,8 +1070,23 @@ a:active {
 	color: #007acc;
 }
 
-.post-navigation div + div {
-	border-top: 4px solid #1a1a1a;
+.post-navigation .nav-next,
+.post-navigation .nav-previous {
+	width: 50%;
+}
+
+.post-navigation .nav-next {
+	float: right;
+	text-align: right;
+}
+.post-navigation .nav-previous {
+	float: left;
+}
+
+.post-navigation:after {
+	content: "";
+	display: table;
+	clear: both;
 }
 
 .pagination {
@@ -1948,7 +1958,7 @@ body:not(.search-results) .entry-summary > :last-child,
 .entry-footer {
 	color: #686868;
 	font-family: Montserrat, "Helvetica Neue", sans-serif;
-	font-size: 12px;
+	font-size: 11px;
 	margin: 0;
 	padding: 1px 0;
 }
@@ -2006,9 +2016,7 @@ body:not(.search-results) .entry-summary > :last-child,
 }
 
 .page-header {
-	border-top: 4px solid #1a1a1a;
-	margin: 0 7.6923% 3.5em;
-	padding-top: 1.75em;
+	margin: 0 0 30px;
 }
 
 body.error404 .page-header,
@@ -2147,13 +2155,11 @@ body.search-no-results .page-header {
 
 .comments-title,
 .comment-reply-title {
-	border-top: 4px solid #1a1a1a;
 	font-family: Montserrat, "Helvetica Neue", sans-serif;
 	font-size: 23px;
 	font-size: 1.4375rem;
 	font-weight: 700;
 	line-height: 1.3125;
-	padding-top: 1.217391304em;
 }
 
 .comments-title {
@@ -2251,7 +2257,6 @@ body.search-no-results .page-header {
 
 .comment-reply-link {
 	border: 1px solid #d1d1d1;
-	border-radius: 2px;
 	color: #007acc;
 	display: inline-block;
 	font-family: Montserrat, "Helvetica Neue", sans-serif;
@@ -2743,8 +2748,7 @@ p > video {
 	}
 
 	.post-navigation .post-title {
-		font-size: 28px;
-		font-size: 1.75rem;
+		font-size: 20px;
 		line-height: 1.25;
 	}
 
