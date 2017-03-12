@@ -55,9 +55,9 @@ class WP_Widget_Meta extends WP_Widget {
 			<ul>
 			<?php wp_register(); ?>
 			<li><?php wp_loginout(); ?></li>
-			<li><a href="<?php echo esc_url( get_bloginfo( 'rss2_url' ) ); ?>"><?php _e('Entries <abbr title="Really Simple Syndication">RSS</abbr>'); ?></a></li>
-			<li><a href="<?php echo esc_url( get_bloginfo( 'comments_rss2_url' ) ); ?>"><?php _e('Comments <abbr title="Really Simple Syndication">RSS</abbr>'); ?></a></li>
-			<?php
+			<!--<li><a href="<?php echo esc_url( get_bloginfo( 'rss2_url' ) ); ?>"><?php _e('Entries <abbr title="Really Simple Syndication">RSS</abbr>'); ?></a></li>
+			<li><a href="<?php echo esc_url( get_bloginfo( 'comments_rss2_url' ) ); ?>"><?php _e('Comments <abbr title="Really Simple Syndication">RSS</abbr>'); ?></a></li>-->
+			<!--?php
 			/**
 			 * Filters the "Powered by WordPress" text in the Meta widget.
 			 *
@@ -72,7 +72,7 @@ class WP_Widget_Meta extends WP_Widget {
 			) );
 
 			wp_meta();
-			?>
+			?>-->
 			</ul>
 			<?php
 		echo $args['after_widget'];

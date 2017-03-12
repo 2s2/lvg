@@ -3334,7 +3334,6 @@ p > video {
 		content: "";
 		border-bottom: 1px solid #e3e3e3;
 		display: block;
-		margin: 30px auto 10px;
 	}
 
 	.site-header-menu,
@@ -3447,7 +3446,7 @@ p > video {
 	.sidebar,
 	.content-bottom-widgets .widget-area,
 	.widecolumn {
-		margin-bottom: 7.0em;
+		margin-bottom: 60px;
 	}
 
 	body:not(.search-results) .entry-summary {
