@@ -58,7 +58,7 @@ Use it to make something cool, have fun, and share what you've learned with othe
  * Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
  */
 
-html {
+ html {
 	font-family: sans-serif;
 	-webkit-text-size-adjust: 100%;
 	-ms-text-size-adjust: 100%;
@@ -103,7 +103,6 @@ template {
 
 a {
 	background-color: transparent;
-	outline:none;
 }
 
 abbr[title] {
@@ -168,7 +167,6 @@ textarea {
 	color: inherit;
 	font: inherit;
 	margin: 0;
-	outline:none;
 }
 
 select {
@@ -328,6 +326,7 @@ i {
 blockquote {
 	border: 0 solid #1a1a1a;
 	border-left-width: 4px;
+	color: #686868;
 	font-size: 19px;
 	font-size: 1.1875rem;
 	font-style: italic;
@@ -888,7 +887,6 @@ a:active {
 	margin-bottom: 1.75em;
 }
 
-
 .social-navigation ul {
 	list-style: none;
 	margin: 0 0 -0.4375em;
@@ -1398,11 +1396,7 @@ blockquote:after,
 
 .widget {
 	margin-bottom: 40px;
-	border: 1px solid #e3e3e3;
-	background: #fff;
-	padding: 10px;
 }
-
 
 .widget-area > :last-child,
 .widget > :last-child {
@@ -1529,7 +1523,6 @@ blockquote:after,
 
 .site-content {
 	word-wrap: break-word;
-	padding: 0 10px;
 }
 
 /* Do not show the outline on the skip link target. */
@@ -1573,7 +1566,6 @@ blockquote:after,
 .custom-logo-link {
 	display: block;
 	float: right;
-	display: none;
 }
 
 .custom-logo {
@@ -1602,8 +1594,13 @@ blockquote:after,
 	float: left;
 }
 
+.site-description {
+	font-size: 22px;
+	line-height: 42px;
+}
+
 .site-description b {
-	font-size: 20px;
+	font-size: 30px;
 }
 
 .menu-toggle {
@@ -1630,11 +1627,17 @@ blockquote:after,
 .menu-toggle.toggled-on,
 .menu-toggle.toggled-on:hover,
 .menu-toggle.toggled-on:focus {
+	background-color: #1a1a1a;
+	border-color: #1a1a1a;
 	color: #fff;
 }
 
 .menu-toggle:focus {
 	outline: 0;
+}
+
+.menu-toggle.toggled-on:focus {
+	outline: thin dotted;
 }
 
 .header-image {
@@ -1658,6 +1661,15 @@ blockquote:after,
 .site-main > article {
 	margin-bottom: 3.5em;
 	position: relative;
+}
+
+.entry-header,
+.entry-summary,
+.entry-content,
+.entry-footer,
+.page-content {
+	margin-right: 7.6923%;
+	margin-left: 7.6923%;
 }
 
 .entry-title {
@@ -2015,9 +2027,9 @@ body.search-no-results .page-header {
 
 .page-title {
 	font-family: Montserrat, "Helvetica Neue", sans-serif;
-	font-size: 26px;
+	font-size: 23px;
+	font-size: 1.4375rem;
 	line-height: 1.2173913043;
-	font-weight: normal;
 }
 
 .taxonomy-description {
@@ -2131,6 +2143,11 @@ body.search-no-results .page-header {
 /**
  * 11.4 - Comments
  */
+
+.comments-area {
+	margin: 0 7.6923% 3.5em;
+}
+
 .comment-list + .comment-respond,
 .comment-navigation + .comment-respond {
 	padding-top: 1.75em;
@@ -2345,7 +2362,7 @@ body.search-no-results .page-header {
 
 .sidebar {
 	margin-bottom: 3.5em;
-	padding: 0;
+	padding: 0 7.6923%;
 }
 
 
@@ -2678,13 +2695,13 @@ p > video {
 /**
  * 14.1 - >= 710px
  */
+@media screen and (min-width: 48.9375em) {
 	.site-main {
 		margin-bottom: 5.25em;
-		padding: 10px;
 	}
 
 	.site-header {
-		padding: 10px;
+		padding: 20px;
 	}
 
 	.custom-logo {
@@ -2694,6 +2711,10 @@ p > video {
 	.site-title {
 		font-size: 44px;
 		line-height: 1.25;
+	}
+
+	.wp-custom-logo .site-title {
+		margin-top: 35px;
 	}
 
 	.site-description {
@@ -2745,12 +2766,31 @@ p > video {
 		margin-bottom: 5.25em;
 	}
 
+	.entry-header,
+	.post-thumbnail,
+	.entry-content,
+	.entry-summary,
+	.comments-area,
+	.image-navigation,
+	.post-navigation,
+	.page-header,
+	.page-content,
+	.content-bottom-widgets {
+		margin-right: 23.0769%;
+	}
+
 	.entry-content blockquote.alignleft,
 	.entry-content blockquote.alignright {
 		border-width: 4px 0 0 0;
 		padding: 0.9473684211em 0 0;
 		width: -webkit-calc(50% - 0.736842105em);
 		width: calc(50% - 0.736842105em);
+	}
+
+	.entry-content blockquote:not(.alignleft):not(.alignright),
+	.entry-summary blockquote,
+	.comment-content blockquote {
+		margin-left: -1.473684211em;
 	}
 
 	.entry-content blockquote blockquote:not(.alignleft):not(.alignright),
@@ -2807,6 +2847,7 @@ p > video {
 	}
 
 	.comments-area,
+	.widget,
 	.content-bottom-widgets .widget-area {
 		margin-bottom: 5.25em;
 	}
@@ -2814,7 +2855,7 @@ p > video {
 	.sidebar,
 	.widecolumn {
 		margin-bottom: 5.25em;
-		padding-right: 0;
+		padding-right: 23.0769%;
 	}
 
 	body:not(.search-results) .entry-summary li > ul,
@@ -2841,27 +2882,10 @@ p > video {
 
 
 /**
- * 14.2 - <= 783px
- */
-
- @media screen and (max-width: 48.9375em) {
-	.site-content {
-		display: flex;
-		flex-direction: column-reverse;
-	}
-}
-
-
-/**
  * 14.3 - >= 910px
  */
 
 @media screen and (min-width: 56.875em) {
-
-	.wp-custom-logo .site-title {
-		margin-top: 35px;
-	}
-
 	.site-header {
 		padding-right: 4.5455%;
 		padding-left: 4.5455%;
@@ -2871,19 +2895,6 @@ p > video {
 		-webkit-align-items: flex-start;
 		-ms-flex-align: start;
 		align-items: flex-start;
-	}
-
-	.site-description {
-		font-size: 22px;
-		line-height: 42px;
-	}
-
-	.site-description b {
-		font-size: 30px;
-	}
-	
-	.custom-logo-link {
-		display: block;
 	}
 
 	.wp-custom-logo .site-header-main {
@@ -3004,10 +3015,10 @@ p > video {
 	.main-navigation ul ul .menu-item-has-children > a:after {
 		right: 0.5625em;
 		top: 0.875em;
-		-webkit-transform: rotate(-90deg);
-		-moz-transform: rotate(-90deg);
-		-ms-transform: rotate(-90deg);
-		transform: rotate(-90deg);
+		-webkit-transform: rotate(90deg);
+		-moz-transform: rotate(90deg);
+		-ms-transform: rotate(90deg);
+		transform: rotate(90deg);
 	}
 
 	.dropdown-toggle,
@@ -3016,6 +3027,10 @@ p > video {
 	.site-header .social-navigation,
 	.site-footer .main-navigation {
 		display: none;
+	}
+
+	.site-content {
+		padding: 0 20px;
 	}
 
 	.content-area {
@@ -3046,7 +3061,10 @@ p > video {
 	}
 
 	.widget {
+		margin-bottom: 40px;
 		padding: 30px;
+		border: 1px solid #e3e3e3;
+		background: #fff;
 	}
 
 	.widget .widget-title {
@@ -3307,11 +3325,10 @@ p > video {
 @media screen and (min-width: 61.5625em) {
 	.site-main {
 		margin-bottom: 7.0em;
-		padding: 30px;
 	}
 
 	.site-header {
-		padding: 10px;
+		padding: 20px;
 	}
 
 	.site-header:after {

@@ -5,3 +5,205 @@ Template: twentysixteen
 */
 
 @import url("../twentysixteen/style.css");
+
+
+.color-red {color:red;}
+.color-green {color:green;}
+.color-blue {color:blue;}
+
+body, button, input, select, textarea {
+    //font-size: 1.2rem;
+}
+
+.entry-footer {
+    margin-top: 30px;
+}
+
+.entry-content ul, .entry-summary ul, .comment-content ul, .entry-content ol, .entry-summary ol, .comment-content ol {
+    margin-left: 1.5em;
+}
+
+.e-diary tr.header td {
+    text-align: center;
+}
+.e-diary tr:not(.header) td {
+    width: 70px;
+    text-align: center;
+}
+
+.e-diary tr td {
+    position: relative;
+}
+
+.e-diary tr td:first-child {
+    text-align: left;
+    width: 200px;
+}
+
+.e-diary tr td.red {background-color: red;}
+.e-diary tr td.green {background-color: green;}
+.e-diary tr td.orange {background-color: orange;}
+.e-diary tr td.rework:after {
+    position: absolute;
+    left: 5px;
+    top: 5px;
+    display: block;
+    content: "";
+    height: 15px;
+    width: 15px;
+    background-color: orange;
+}
+
+.diary_legend {
+    list-item: none;
+    margin-left: 0;
+}
+
+.diary_legend-item {
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+
+.diary_legend-item:before {
+    display: block;
+    content: "";
+    height: 20px;
+    width: 20px;
+    margin-right: 10px;
+    border: 1px solid #d1d1d1;
+}
+
+.diary_legend-item.rework:after {
+    position: absolute;
+    left: 5px;
+    top: 8px;
+    display: block;
+    content: "";
+    height: 5px;
+    width: 5px;
+    background-color: orange;
+}
+
+.diary_legend-item.orange:before {
+    background-color: orange;
+}
+
+.diary_legend-item.green:before {
+    background-color: green;
+}
+
+.diary_legend-item.red:before {
+    background-color: red;
+}
+
+.achievements {}
+
+.achievements-list {
+    list-style: none;
+}
+
+.achievements-item {
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.achievements-item_img {
+    max-width: 30px;
+}
+
+.achievements.m-diary .achievements-list {
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.achievements.m-diary .achievements-item {
+    margin-bottom: 0;
+    display: none;
+}
+
+.achievements.m-diary .achievements-item.m-show {
+    display: inline-block;
+}
+
+.achievements.m-diary .ach {
+    margin-right: 2px;
+    margin-bottom: 2px;
+    height: 17px;
+    width: 15px;
+}
+
+.achievements.m-diary .ach {
+
+}
+
+.ach {
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-position: center center;
+    margin-right: 10px;
+    width: 30px;
+    height: 34px;
+}
+
+.ach.ach-lazy_kitty {
+    background-image: url(https://public-assets.envato-static.com/assets/badges/author_level_16-s-f50d8feb0f40c470770c2d4e2df62c8f0f273947fb59d895bc9ceb57ec3297a4.svg);
+}
+
+.ach.ach-beginner {
+    background-image: url(https://public-assets.envato-static.com/assets/badges/exclusive-s-7be11fa1e7f915d21f1d93d092dbd6678c35d5c03c3e7cd8d541e715667f7725.svg);
+}
+
+.ach.ach-goodman {
+    background-image: url(https://public-assets.envato-static.com/assets/badges/had_trending_item-s-df25504354e95350eb7eaa475e4d6fe77cb972b4a0b225358eac6b99e6acc415.svg);
+}
+
+.ach.ach-smart {
+    background-image: url(https://public-assets.envato-static.com/assets/badges/had_free_file-s-5f487cc55458fa73863526ab7150e5dab6cbd7bbf751dae513637679cd48f464.svg);
+}
+
+.ach.ach-professional {
+    background-image: url(https://public-assets.envato-static.com/assets/badges/won_a_competition-s-c9c087b4be67915a971fa089cc54d8d1ae1f09b4d3fd6da107a5b033f49eface.svg);
+}
+
+.ach.ach-math {
+    background-image: url(https://public-assets.envato-static.com/assets/badges/was_featured-s-2416553afc897c607b305a37062c673c2a75be01c029cd0bd18ee7856cd8c323.svg);
+}
+
+.ach.ach-lingvo {
+    background-image: url(https://public-assets.envato-static.com/assets/badges/contributed_blog_post-s-a750b9d6541ee3e6a63d51f828438971e63c48a1a198b52117f6d289826d3fe9.svg);
+}
+
+.ach.ach-scientist {
+    background-image: url(https://public-assets.envato-static.com/assets/badges/power_elite-s-f2e0c6ae5b4e6b535a82594b1df540c31ac15d91a4d62ac66de507f2c0da98a1.svg);
+}
+
+.ach.ach-hero {
+    background-image: url(https://public-assets.envato-static.com/assets/badges/affiliate_level_5-s-e42666379faea0e020576ccb8685fff50a6bf54edf59dc0b8f8f9eb6bf670851.svg);
+}
+
+.ach.ach-leader {
+    background-image: url(https://public-assets.envato-static.com/assets/badges/affiliate_level_8-s-ef8bfd4f73ee52e53017bbdc44f708215d1e9baeadcbfaa3bd3d0225016976ec.svg);
+}
+
+.ach.ach-ninja {
+    background-image: url(https://public-assets.envato-static.com/assets/badges/sheriff-s-ae82e8e4560df86802af449367ed9b14c6875d8cc4ee83dcf3988fc7b2bb0e31.svg);
+}
+
+.ach.ach-super_ninja {
+    background-image: url(https://public-assets.envato-static.com/assets/badges/super_sheriff-s-2919b5921cc111ff9cdff8a8cd4dfbca96e2090146647c9808f34503db48e97e.svg);
+}
+
+.ach.ach-super_ninja {
+    background-image: url(https://public-assets.envato-static.com/assets/badges/super_sheriff-s-2919b5921cc111ff9cdff8a8cd4dfbca96e2090146647c9808f34503db48e97e.svg);
+}
+
+.ach.ach-terminator {
+    background-image: url(https://public-assets.envato-static.com/assets/badges/most_wanted_bounty_winner-s-9743dbd86286b9ce53387cd178c39653615cf58bbc3ead7cbba5685910c14443.svg);
+}
+
+.ach.ach-space {
+    background-image: url(https://public-assets.envato-static.com/assets/badges/was_weekly_top_seller-s-dbafc5973a4eca5621dc631bd004b0f92170882f8d6cf9b64b3e880583dbf888.svg);
+}
