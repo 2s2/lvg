@@ -17,3 +17,19 @@ function artabr_remove_name_cat( $title ){
 	}
 	return $title;
 }
+
+/**
+ * Homepage widget area
+ */
+function register_my_widgets(){
+	register_sidebar( array(
+		'name' => 'Homepage top',
+		'id' => 'homepage-top-widget',
+		'description' => 'Виджеты выводятся в хедере',
+		'before_widget' => '<div class="widget homepage-top-widget-block">',
+		'after_widget' => '</div>',
+		'before_title' => '<h2 class="widget-title">',
+		'after_title' => '</h2>',
+	) );
+}
+add_action( 'widgets_init', 'register_my_widgets' );
