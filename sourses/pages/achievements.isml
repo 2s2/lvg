@@ -1,0 +1,48 @@
+<div class="achievements">
+    <p class="achievements-title">Нагороди для активних та прогресивних учнів! Виконуй домашні завдання, колекціонуй та змагайся зі своїми друзями. Нагороди нараховуються за кожен тиждень окремо, так що не сумуй, якщо не встиг отримати якусь з них - маєшь шанс наступного тижня.</p>
+    <p>Деякі нагороди отримати легко, а для деяких доведеться неабияк попітніти. Але чим важчий шлях - тим солодша нагорода, чи не так?</p>
+    <ul class="achievements-list">
+        <li class="achievements-item">
+            <i class="ach ach-lazy_kitty" title="Ледачий котик"></i><span class="achievements-item_description">- <b>Ледачий котик.</b> Не виконано жодного ДЗ</span>
+        </li>
+        <li class="achievements-item">
+            <i class="ach ach-beginner" title="Початківець"></i><span class="achievements-item_description">- <b>Початківець.</b> Виконав перше домашнє завдання</span>
+        </li>
+        <li class="achievements-item">
+            <i class="ach ach-goodman" title="Молодець"></i><span class="achievements-item_description">- <b>Молодець.</b> Виконано більше трьох ДЗ</span>
+        </li>
+        <li class="achievements-item">
+            <i class="ach ach-smart" title="Знаток"></i><span class="achievements-item_description">- <b>Знаток.</b> Виконано більше п'яти ДЗ</span>
+        </li>
+        <li class="achievements-item">
+            <i class="ach ach-professional" title="Професіонал"></i><span class="achievements-item_description">- <b>Професіонал.</b> Виконано сім та більше ДЗ</span>
+        </li>
+        <li class="achievements-item">
+            <i class="ach ach-math" title="Математик"></i><span class="achievements-item_description">- <b>Математик.</b> Завершені всі завдання з математики</span>
+        </li>
+        <li class="achievements-item">
+            <i class="ach ach-lingvo" title="Лінгвіст"></i><span class="achievements-item_description">- <b>Лінгвіст.</b> Завершені всі завдання з укр. мови</span>
+        </li>
+        <li class="achievements-item">
+            <i class="ach ach-scientist" title="Науковець"></i><span class="achievements-item_description">- <b>Науковець.</b> Завершені всі завдання з літературного читання</span>
+        </li>
+        <li class="achievements-item">
+            <i class="ach ach-hero" title="Герой"></i><span class="achievements-item_description">- <b>Герой.</b> Входиш у п'ятірку тих, хто першим здав одне із завданнь</span>
+        </li>
+        <li class="achievements-item">
+            <i class="ach ach-leader" title="Лідер"></i><span class="achievements-item_description">- <b>Лідер.</b> Першим здав одне із завдань без помилок</span>
+        </li>
+        <li class="achievements-item">
+            <i class="ach ach-ninja" title="Ніндзя"></i><span class="achievements-item_description">- <b>Ніндзя.</b> Три ДЗ підряд без помилок</span>
+        </li>
+        <li class="achievements-item">
+            <i class="ach ach-super_ninja" title="Супер ніндзя"></i><span class="achievements-item_description">- <b>Супер ніндзя.</b> П'ять ДЗ підряд без помилок</span>
+        </li>
+        <li class="achievements-item">
+            <i class="ach ach-terminator" title="Термінатор"></i><span class="achievements-item_description">- <b>Термінатор.</b> Всі ДЗ за тиждень без помилок</span>
+        </li>
+        <li class="achievements-item">
+            <i class="ach ach-space" title="Ти - космос"></i><span class="achievements-item_description">- <b>Ти - космос.</b> Зібрав усі попередні нагороди</span>
+        </li>
+    </ul>
+</div>
