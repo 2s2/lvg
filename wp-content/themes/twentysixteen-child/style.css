@@ -26,8 +26,10 @@ body, button, input, select, textarea {
 .e-diary tr.header td {
     text-align: center;
 }
+
+.instagram tr:not(.header) td,
 .e-diary tr:not(.header) td {
-    width: 70px;
+    width: 80px;
     text-align: center;
 }
 
@@ -35,6 +37,7 @@ body, button, input, select, textarea {
     position: relative;
 }
 
+.instagram tr td:first-child,
 .e-diary tr td:first-child {
     text-align: left;
     width: 200px;
@@ -42,6 +45,7 @@ body, button, input, select, textarea {
 
 .e-diary tr td.red {background-color: red;}
 .e-diary tr td.green {background-color: green;}
+.e-diary tr td.max {background-color: #035a03;}
 .e-diary tr td.orange {background-color: orange;}
 .e-diary tr td.rework:after {
     position: absolute;
@@ -91,6 +95,10 @@ body, button, input, select, textarea {
 
 .diary_legend-item.green:before {
     background-color: green;
+}
+
+.diary_legend-item.max:before {
+    background-color: #035a03;
 }
 
 .diary_legend-item.red:before {
