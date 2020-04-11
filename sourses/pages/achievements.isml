@@ -9,10 +9,10 @@
             <i class="ach ach-beginner" title="Початківець"></i><span class="achievements-item_description">- <b>Початківець.</b> Виконав перше домашнє завдання</span>
         </li>
         <li class="achievements-item">
-            <i class="ach ach-goodman" title="Молодець"></i><span class="achievements-item_description">- <b>Молодець.</b> Виконано більше трьох ДЗ</span>
+            <i class="ach ach-goodman" title="Молодець"></i><span class="achievements-item_description">- <b>Молодець.</b> Виконано три та більше ДЗ</span>
         </li>
         <li class="achievements-item">
-            <i class="ach ach-smart" title="Знаток"></i><span class="achievements-item_description">- <b>Знаток.</b> Виконано більше п'яти ДЗ</span>
+            <i class="ach ach-smart" title="Знаток"></i><span class="achievements-item_description">- <b>Знаток.</b> Виконано п'ять та більше ДЗ</span>
         </li>
         <li class="achievements-item">
             <i class="ach ach-professional" title="Професіонал"></i><span class="achievements-item_description">- <b>Професіонал.</b> Виконано сім та більше ДЗ</span>
