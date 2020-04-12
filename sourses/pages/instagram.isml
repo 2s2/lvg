@@ -3,6 +3,41 @@
 <p>Більше того, саме зараз час створити наш <a href="https://www.instagram.com/druzi.2020/" target="_blank">класний інстаграм</a>, де будуть публікуватись усі ваші відео, тому швиденько за телефонами і знімати себе веселих, кмітливих та таких рідних для мене! І знайте, ви в будь-якому разі для мене зірочки!</p>
 <p>Умови за <a href="/faq/#instagram">посиланням</a>!</p>
 
+<h4 style="text-align: center;">Зірки березня!</h4>
+
+<table class="instagram">
+    <tr>
+        <td style="text-align: center; font-weight: bold; width: 12%;">Зірка</td>
+        <td style="text-align: center; font-weight: bold;">Місце</td>
+        <td style="text-align: center; font-weight: bold;">Кількість</td>
+        <td style="text-align: center; font-weight: bold;">Титул</td>
+    </tr>
+    <tr>
+        <td>Карпелюк Богдан</td>
+        <td>1</td>
+        <td><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i></td>
+        <td>Читач уві сні!</td>
+    </tr>
+    <tr>
+        <td>Назаренко Андрій</td>
+        <td>2</td>
+        <td><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i></td>
+        <td>Морська свинка - кращий друг!</td>
+    </tr>
+    <tr>
+        <td>Гаврищенко Маргарита</td>
+        <td>3</td>
+        <td><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i></td>
+        <td>Спортсменка місяця!</td>
+    </tr>
+    <tr>
+        <td>Рибалко Сергій</td>
+        <td>3</td>
+        <td><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i></td>
+        <td>Мамин розумник!</td>
+    </tr>
+</table>
+
 <h5>Результати тижня за період з 30 березня по 5 квітня</h5>
 
 <table class="instagram">
@@ -22,6 +57,7 @@
         <td>78</td>
         <td>2</td>
         <td>117</td>
+        <td><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i></td>
     </tr>
     <tr>
         <td>Карпелюк Богдан</td>
@@ -30,6 +66,7 @@
         <td>59</td>
         <td>1</td>
         <td>79</td>
+        <td><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i></td>
     </tr>
     <tr>
         <td>Назаренко Андрій</td>
@@ -38,6 +75,7 @@
         <td>39</td>
         <td>2</td>
         <td>73</td>
+        <td><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i></td>
     </tr>
     <tr>
         <td>Рибалко Сергій</td>
@@ -46,6 +84,7 @@
         <td>31</td>
         <td>1</td>
         <td>48</td>
+        <td><i class="fa fa-star"></i></td>
     </tr>
     <tr>
         <td>Кубенко Владислав</td>
@@ -54,6 +93,7 @@
         <td></td>
         <td>1</td>
         <td>20</td>
+        <td><i class="fa fa-star"></i></td>
     </tr>
     <tr>
         <td>Нікішенко Володимир</td>
@@ -62,6 +102,7 @@
         <td></td>
         <td>1</td>
         <td>18</td>
+        <td><i class="fa fa-star"></i></td>
     </tr>
     <tr>
         <td>Могилевець Семен</td>
@@ -70,6 +111,7 @@
         <td></td>
         <td>1</td>
         <td>17</td>
+        <td><i class="fa fa-star"></i></td>
     </tr>
 </table>
 
@@ -92,6 +134,7 @@
         <td>81</td>
         <td>2</td>
         <td>151</td>
+        <td><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i></td>
     </tr>
     <tr>
         <td>Рибалко Сергій</td>
@@ -100,6 +143,7 @@
         <td>72</td>
         <td>2</td>
         <td>103</td>
+        <td><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i></td>
     </tr>
     <tr>
         <td>Назаренко Андрій</td>
@@ -108,6 +152,7 @@
         <td>48</td>
         <td>1</td>
         <td>65</td>
+        <td><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i></td>
     </tr>
     <tr>
         <td>Янчукова Елла</td>
@@ -116,6 +161,7 @@
         <td>47</td>
         <td>1</td>
         <td>60</td>
+        <td><i class="fa fa-star"></i></td>
     </tr>
     <tr>
         <td>Могилевець Семен</td>
@@ -124,6 +170,7 @@
         <td></td>
         <td>1</td>
         <td>16</td>
+        <td><i class="fa fa-star"></i></td>
     </tr>
     <tr>
         <td>Кубенко Владислав</td>
@@ -132,5 +179,6 @@
         <td></td>
         <td>1</td>
         <td>14</td>
+        <td><i class="fa fa-star"></i></td>
     </tr>
 </table>
