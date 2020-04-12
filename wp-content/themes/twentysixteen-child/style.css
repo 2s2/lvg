@@ -43,6 +43,10 @@ body, button, input, select, textarea {
     width: 200px;
 }
 
+.instagram i {
+    color:gold;
+}
+
 .e-diary tr td.red {background-color: red;}
 .e-diary tr td.green {background-color: green;}
 .e-diary tr td.max {background-color: #035a03;}
