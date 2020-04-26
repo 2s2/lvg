@@ -9,10 +9,10 @@
             <i class="ach ach-beginner" title="Початківець"></i><span class="achievements-item_description">- <b>Початківець.</b> Виконав перше домашнє завдання</span>
         </li>
         <li class="achievements-item">
-            <i class="ach ach-goodman" title="Молодець"></i><span class="achievements-item_description">- <b>Молодець.</b> Виконано більше трьох ДЗ</span>
+            <i class="ach ach-goodman" title="Молодець"></i><span class="achievements-item_description">- <b>Молодець.</b> Виконано три та більше ДЗ</span>
         </li>
         <li class="achievements-item">
-            <i class="ach ach-smart" title="Знаток"></i><span class="achievements-item_description">- <b>Знаток.</b> Виконано більше п'яти ДЗ</span>
+            <i class="ach ach-smart" title="Знаток"></i><span class="achievements-item_description">- <b>Знаток.</b> Виконано п'ять та більше ДЗ</span>
         </li>
         <li class="achievements-item">
             <i class="ach ach-professional" title="Професіонал"></i><span class="achievements-item_description">- <b>Професіонал.</b> Виконано сім та більше ДЗ</span>
@@ -25,6 +25,9 @@
         </li>
         <li class="achievements-item">
             <i class="ach ach-scientist" title="Науковець"></i><span class="achievements-item_description">- <b>Науковець.</b> Завершені всі завдання з літературного читання</span>
+        </li>
+        <li class="achievements-item">
+            <i class="ach ach-nature" title="Науковець"></i><span class="achievements-item_description">- <b>Винахідник.</b> Завершені всі завдання з природознавства</span>
         </li>
         <li class="achievements-item">
             <i class="ach ach-hero" title="Герой"></i><span class="achievements-item_description">- <b>Герой.</b> Входиш у п'ятірку тих, хто першим здав одне із завданнь</span>
@@ -42,7 +45,7 @@
             <i class="ach ach-terminator" title="Термінатор"></i><span class="achievements-item_description">- <b>Термінатор.</b> Всі ДЗ за тиждень без помилок</span>
         </li>
         <li class="achievements-item">
-            <i class="ach ach-space" title="Ти - космос"></i><span class="achievements-item_description">- <b>Ти - космос.</b> Зібрав усі попередні нагороди</span>
+            <i class="ach ach-space" title="Ти - космос"></i><span class="achievements-item_description">- <b>Ти - космос.</b> Зібрав усі нагороди за тиждень</span>
         </li>
     </ul>
 </div>

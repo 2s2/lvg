@@ -43,6 +43,10 @@ body, button, input, select, textarea {
     width: 200px;
 }
 
+.instagram i {
+    color:gold;
+}
+
 .e-diary tr td.red {background-color: red;}
 .e-diary tr td.green {background-color: green;}
 .e-diary tr td.max {background-color: #035a03;}
@@ -188,6 +192,10 @@ body, button, input, select, textarea {
     background-image: url(https://public-assets.envato-static.com/assets/badges/power_elite-s-f2e0c6ae5b4e6b535a82594b1df540c31ac15d91a4d62ac66de507f2c0da98a1.svg);
 }
 
+.ach.ach-nature {
+    background-image: url(https://public-assets.envato-static.com/assets/badges/beta_tester-s-2790f914d7c1567fc72cd6f3c927065b4d0011a99dbd96e92e938035b37a8aa6.svg);
+}
+
 .ach.ach-hero {
     background-image: url(https://public-assets.envato-static.com/assets/badges/affiliate_level_5-s-e42666379faea0e020576ccb8685fff50a6bf54edf59dc0b8f8f9eb6bf670851.svg);
 }
@@ -214,4 +222,29 @@ body, button, input, select, textarea {
 
 .ach.ach-space {
     background-image: url(https://public-assets.envato-static.com/assets/badges/was_weekly_top_seller-s-dbafc5973a4eca5621dc631bd004b0f92170882f8d6cf9b64b3e880583dbf888.svg);
+}
+
+
+.checkbox_block {
+    margin-bottom: 1.75em;
+}
+
+.checkbox_block-text {
+    display: none;
+}
+
+.checkbox_block input {
+    display: none;
+}
+
+.checkbox_block label {
+    text-decoration: underline;
+}
+
+.checkbox_block label:hover {
+    cursor:pointer;
+}
+
+.checkbox_block :checked ~ .checkbox_block-text {
+    display: block;
 }

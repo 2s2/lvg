@@ -1,0 +1,119 @@
+
+<!--more-->
+<table class="instagram">
+    <tr>
+        <td style="text-align: center; font-weight: bold;">Предмет</td>
+        <td style="text-align: center; font-weight: bold;">Форма роботи</td>
+        <td style="text-align: center; font-weight: bold;">Перевірка результатів</td>
+    </tr>
+    <tr>
+        <td colspan="3" style="text-align: center; font-weight: bold;">Понеділок</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;">Літературне читання</td>
+        <td>Дистанційне ДЗ</td>
+        <td>Тести</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;">Українська мова</td>
+        <td>Дистанційне ДЗ, онлайн-уроки</td>
+        <td>Тести</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;">Основи здоров'я</td>
+        <td>Самостійне вивчення, перегляд рекомендаційних текстових та відео матеріалів</td>
+        <td>Індивідуальні консультації</td>
+    </tr>
+    <tr>
+        <td colspan="3" style="text-align: center; font-weight: bold;">Вівторок</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;">Літературне читання</td>
+        <td>Дистанційне ДЗ</td>
+        <td>Тести</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;">Математика</td>
+        <td>Дистанційне ДЗ, онлайн-уроки, презентації</td>
+        <td>Тести</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;">Природознавство</td>
+        <td>Дистанційне ДЗ, самостійне вивчення, презентації</td>
+        <td>Тести, індивідуальні консультації</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;">Я у світі</td>
+        <td>Самостійне вивчення, перегляд рекомендаційних текстових та відео матеріалів</td>
+        <td>Індивідуальні консультації</td>
+    </tr>
+    <tr>
+        <td colspan="3" style="text-align: center; font-weight: bold;">Середа</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;">Математика</td>
+        <td>Дистанційне ДЗ, онлайн-уроки, презентації</td>
+        <td>Тести</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;">Українська мова</td>
+        <td>Дистанційне ДЗ, онлайн-уроки</td>
+        <td>Тести</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;">Рос. мова</td>
+        <td>Дистанційне ДЗ, онлайн-уроки, самостійне вивчення, презентації</td>
+        <td>Тести, індивідуальні консультації</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;">Трудове навчання</td>
+        <td>Робота через Bайбер</td>
+        <td>Фотозвіт</td>
+    </tr>
+    <tr>
+        <td colspan="3" style="text-align: center; font-weight: bold;">Четвер</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;">Літературне читання</td>
+        <td>Дистанційне ДЗ</td>
+        <td>Тести</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;">Математика</td>
+        <td>Дистанційне ДЗ, онлайн-уроки, презентації</td>
+        <td>Тести</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;">Українська мова</td>
+        <td>Дистанційне ДЗ, онлайн-уроки</td>
+        <td>Тести</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;">Обр. мист.</td>
+        <td>Робота через Bайбер</td>
+        <td>Фотозвіт</td>
+    </tr>
+    <tr>
+        <td colspan="3" style="text-align: center; font-weight: bold;">П'ятниця</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;">Природознавство</td>
+        <td>Дистанційне ДЗ, самостійне вивчення, презентації</td>
+        <td>Тести, індивідуальні консультації</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;">Математика</td>
+        <td>Дистанційне ДЗ, онлайн-уроки, презентації</td>
+        <td>Тести</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;">Рос. мова</td>
+        <td>Дистанційне ДЗ, онлайн-уроки, самостійне вивчення, презентації</td>
+        <td>Тести, індивідуальні консультації</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;">Українська мова / Літературне читання</td>
+        <td>Дистанційне ДЗ, онлайн-уроки</td>
+        <td>Тести</td>
+    </tr>
+</table>
