@@ -200,9 +200,9 @@
 					<li class="achievements-item"><i class="ach ach-lazy_kitty" title="Ледачий котик"></i></li>
 					<li class="achievements-item m-show"><i class="ach ach-beginner" title="Початківець"></i></li>
 					<li class="achievements-item m-show"><i class="ach ach-goodman" title="Молодець"></i></li>
-					<li class="achievements-item"><i class="ach ach-smart" title="Знаток"></i></li>
+					<li class="achievements-item m-show"><i class="ach ach-smart" title="Знаток"></i></li>
 					<li class="achievements-item"><i class="ach ach-professional" title="Професіонал"></i></li>
-					<li class="achievements-item"><i class="ach ach-math" title="Математик"></i></li>
+					<li class="achievements-item m-show"><i class="ach ach-math" title="Математик"></i></li>
 					<li class="achievements-item m-show"><i class="ach ach-lingvo" title="Лінгвіст"></i></li>
 					<li class="achievements-item"><i class="ach ach-scientist" title="Науковець"></i></li>
 					<li class="achievements-item"><i class="ach ach-hero" title="Герой"></i></li>
@@ -215,10 +215,10 @@
 			</div>
 		</td>
 		<td class="green"></td>
-		<td></td>
 		<td class="green"></td>
 		<td class="green"></td>
-		<td></td>
+		<td class="green"></td>
+		<td class="green"></td>
 		<td class="max"></td>
 	</tr>
 	<tr>

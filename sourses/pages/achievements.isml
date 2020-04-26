@@ -27,6 +27,9 @@
             <i class="ach ach-scientist" title="Науковець"></i><span class="achievements-item_description">- <b>Науковець.</b> Завершені всі завдання з літературного читання</span>
         </li>
         <li class="achievements-item">
+            <i class="ach ach-nature" title="Науковець"></i><span class="achievements-item_description">- <b>Винахідник.</b> Завершені всі завдання з природознавства</span>
+        </li>
+        <li class="achievements-item">
             <i class="ach ach-hero" title="Герой"></i><span class="achievements-item_description">- <b>Герой.</b> Входиш у п'ятірку тих, хто першим здав одне із завданнь</span>
         </li>
         <li class="achievements-item">
@@ -42,7 +45,7 @@
             <i class="ach ach-terminator" title="Термінатор"></i><span class="achievements-item_description">- <b>Термінатор.</b> Всі ДЗ за тиждень без помилок</span>
         </li>
         <li class="achievements-item">
-            <i class="ach ach-space" title="Ти - космос"></i><span class="achievements-item_description">- <b>Ти - космос.</b> Зібрав усі попередні нагороди</span>
+            <i class="ach ach-space" title="Ти - космос"></i><span class="achievements-item_description">- <b>Ти - космос.</b> Зібрав усі нагороди за тиждень</span>
         </li>
     </ul>
 </div>

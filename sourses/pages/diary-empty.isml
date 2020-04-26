@@ -27,6 +27,7 @@
 		<td><a style="box-shadow: none;" href="/">6</a></td>
 		<td><a style="box-shadow: none;" href="/">1</a></td>
 		<td><a style="box-shadow: none;" href="/">2</a></td>
+		<td><a style="box-shadow: none;" href="/">3</a></td>
 		<td>3</td>
 	</tr>
 	<tr>
@@ -41,6 +42,7 @@
 					<li class="achievements-item"><i class="ach ach-math" title="Математик"></i></li>
 					<li class="achievements-item"><i class="ach ach-lingvo" title="Лінгвіст"></i></li>
 					<li class="achievements-item"><i class="ach ach-scientist" title="Науковець"></i></li>
+					<li class="achievements-item"><i class="ach ach-nature" title="Винахідник"></i></li>
 					<li class="achievements-item"><i class="ach ach-hero" title="Герой"></i></li>
 					<li class="achievements-item"><i class="ach ach-leader" title="Лідер"></i></li>
 					<li class="achievements-item"><i class="ach ach-ninja" title="Ніндзя"></i></li>
@@ -72,6 +74,7 @@
 					<li class="achievements-item"><i class="ach ach-math" title="Математик"></i></li>
 					<li class="achievements-item"><i class="ach ach-lingvo" title="Лінгвіст"></i></li>
 					<li class="achievements-item"><i class="ach ach-scientist" title="Науковець"></i></li>
+					<li class="achievements-item"><i class="ach ach-nature" title="Винахідник"></i></li>
 					<li class="achievements-item"><i class="ach ach-hero" title="Герой"></i></li>
 					<li class="achievements-item"><i class="ach ach-leader" title="Лідер"></i></li>
 					<li class="achievements-item"><i class="ach ach-ninja" title="Ніндзя"></i></li>
@@ -103,6 +106,7 @@
 					<li class="achievements-item"><i class="ach ach-math" title="Математик"></i></li>
 					<li class="achievements-item"><i class="ach ach-lingvo" title="Лінгвіст"></i></li>
 					<li class="achievements-item"><i class="ach ach-scientist" title="Науковець"></i></li>
+					<li class="achievements-item"><i class="ach ach-nature" title="Винахідник"></i></li>
 					<li class="achievements-item"><i class="ach ach-hero" title="Герой"></i></li>
 					<li class="achievements-item"><i class="ach ach-leader" title="Лідер"></i></li>
 					<li class="achievements-item"><i class="ach ach-ninja" title="Ніндзя"></i></li>
@@ -134,6 +138,7 @@
 					<li class="achievements-item"><i class="ach ach-math" title="Математик"></i></li>
 					<li class="achievements-item"><i class="ach ach-lingvo" title="Лінгвіст"></i></li>
 					<li class="achievements-item"><i class="ach ach-scientist" title="Науковець"></i></li>
+					<li class="achievements-item"><i class="ach ach-nature" title="Винахідник"></i></li>
 					<li class="achievements-item"><i class="ach ach-hero" title="Герой"></i></li>
 					<li class="achievements-item"><i class="ach ach-leader" title="Лідер"></i></li>
 					<li class="achievements-item"><i class="ach ach-ninja" title="Ніндзя"></i></li>
@@ -165,6 +170,7 @@
 					<li class="achievements-item"><i class="ach ach-math" title="Математик"></i></li>
 					<li class="achievements-item"><i class="ach ach-lingvo" title="Лінгвіст"></i></li>
 					<li class="achievements-item"><i class="ach ach-scientist" title="Науковець"></i></li>
+					<li class="achievements-item"><i class="ach ach-nature" title="Винахідник"></i></li>
 					<li class="achievements-item"><i class="ach ach-hero" title="Герой"></i></li>
 					<li class="achievements-item"><i class="ach ach-leader" title="Лідер"></i></li>
 					<li class="achievements-item"><i class="ach ach-ninja" title="Ніндзя"></i></li>
@@ -196,6 +202,7 @@
 					<li class="achievements-item"><i class="ach ach-math" title="Математик"></i></li>
 					<li class="achievements-item"><i class="ach ach-lingvo" title="Лінгвіст"></i></li>
 					<li class="achievements-item"><i class="ach ach-scientist" title="Науковець"></i></li>
+					<li class="achievements-item"><i class="ach ach-nature" title="Винахідник"></i></li>
 					<li class="achievements-item"><i class="ach ach-hero" title="Герой"></i></li>
 					<li class="achievements-item"><i class="ach ach-leader" title="Лідер"></i></li>
 					<li class="achievements-item"><i class="ach ach-ninja" title="Ніндзя"></i></li>
@@ -227,6 +234,7 @@
 					<li class="achievements-item"><i class="ach ach-math" title="Математик"></i></li>
 					<li class="achievements-item"><i class="ach ach-lingvo" title="Лінгвіст"></i></li>
 					<li class="achievements-item"><i class="ach ach-scientist" title="Науковець"></i></li>
+					<li class="achievements-item"><i class="ach ach-nature" title="Винахідник"></i></li>
 					<li class="achievements-item"><i class="ach ach-hero" title="Герой"></i></li>
 					<li class="achievements-item"><i class="ach ach-leader" title="Лідер"></i></li>
 					<li class="achievements-item"><i class="ach ach-ninja" title="Ніндзя"></i></li>
@@ -258,6 +266,7 @@
 					<li class="achievements-item"><i class="ach ach-math" title="Математик"></i></li>
 					<li class="achievements-item"><i class="ach ach-lingvo" title="Лінгвіст"></i></li>
 					<li class="achievements-item"><i class="ach ach-scientist" title="Науковець"></i></li>
+					<li class="achievements-item"><i class="ach ach-nature" title="Винахідник"></i></li>
 					<li class="achievements-item"><i class="ach ach-hero" title="Герой"></i></li>
 					<li class="achievements-item"><i class="ach ach-leader" title="Лідер"></i></li>
 					<li class="achievements-item"><i class="ach ach-ninja" title="Ніндзя"></i></li>
@@ -289,6 +298,7 @@
 					<li class="achievements-item"><i class="ach ach-math" title="Математик"></i></li>
 					<li class="achievements-item"><i class="ach ach-lingvo" title="Лінгвіст"></i></li>
 					<li class="achievements-item"><i class="ach ach-scientist" title="Науковець"></i></li>
+					<li class="achievements-item"><i class="ach ach-nature" title="Винахідник"></i></li>
 					<li class="achievements-item"><i class="ach ach-hero" title="Герой"></i></li>
 					<li class="achievements-item"><i class="ach ach-leader" title="Лідер"></i></li>
 					<li class="achievements-item"><i class="ach ach-ninja" title="Ніндзя"></i></li>
@@ -320,6 +330,7 @@
 					<li class="achievements-item"><i class="ach ach-math" title="Математик"></i></li>
 					<li class="achievements-item"><i class="ach ach-lingvo" title="Лінгвіст"></i></li>
 					<li class="achievements-item"><i class="ach ach-scientist" title="Науковець"></i></li>
+					<li class="achievements-item"><i class="ach ach-nature" title="Винахідник"></i></li>
 					<li class="achievements-item"><i class="ach ach-hero" title="Герой"></i></li>
 					<li class="achievements-item"><i class="ach ach-leader" title="Лідер"></i></li>
 					<li class="achievements-item"><i class="ach ach-ninja" title="Ніндзя"></i></li>
@@ -351,6 +362,7 @@
 					<li class="achievements-item"><i class="ach ach-math" title="Математик"></i></li>
 					<li class="achievements-item"><i class="ach ach-lingvo" title="Лінгвіст"></i></li>
 					<li class="achievements-item"><i class="ach ach-scientist" title="Науковець"></i></li>
+					<li class="achievements-item"><i class="ach ach-nature" title="Винахідник"></i></li>
 					<li class="achievements-item"><i class="ach ach-hero" title="Герой"></i></li>
 					<li class="achievements-item"><i class="ach ach-leader" title="Лідер"></i></li>
 					<li class="achievements-item"><i class="ach ach-ninja" title="Ніндзя"></i></li>
@@ -382,6 +394,7 @@
 					<li class="achievements-item"><i class="ach ach-math" title="Математик"></i></li>
 					<li class="achievements-item"><i class="ach ach-lingvo" title="Лінгвіст"></i></li>
 					<li class="achievements-item"><i class="ach ach-scientist" title="Науковець"></i></li>
+					<li class="achievements-item"><i class="ach ach-nature" title="Винахідник"></i></li>
 					<li class="achievements-item"><i class="ach ach-hero" title="Герой"></i></li>
 					<li class="achievements-item"><i class="ach ach-leader" title="Лідер"></i></li>
 					<li class="achievements-item"><i class="ach ach-ninja" title="Ніндзя"></i></li>
@@ -413,6 +426,7 @@
 					<li class="achievements-item"><i class="ach ach-math" title="Математик"></i></li>
 					<li class="achievements-item"><i class="ach ach-lingvo" title="Лінгвіст"></i></li>
 					<li class="achievements-item"><i class="ach ach-scientist" title="Науковець"></i></li>
+					<li class="achievements-item"><i class="ach ach-nature" title="Винахідник"></i></li>
 					<li class="achievements-item"><i class="ach ach-hero" title="Герой"></i></li>
 					<li class="achievements-item"><i class="ach ach-leader" title="Лідер"></i></li>
 					<li class="achievements-item"><i class="ach ach-ninja" title="Ніндзя"></i></li>
@@ -444,6 +458,7 @@
 					<li class="achievements-item"><i class="ach ach-math" title="Математик"></i></li>
 					<li class="achievements-item"><i class="ach ach-lingvo" title="Лінгвіст"></i></li>
 					<li class="achievements-item"><i class="ach ach-scientist" title="Науковець"></i></li>
+					<li class="achievements-item"><i class="ach ach-nature" title="Винахідник"></i></li>
 					<li class="achievements-item"><i class="ach ach-hero" title="Герой"></i></li>
 					<li class="achievements-item"><i class="ach ach-leader" title="Лідер"></i></li>
 					<li class="achievements-item"><i class="ach ach-ninja" title="Ніндзя"></i></li>
@@ -475,6 +490,7 @@
 					<li class="achievements-item"><i class="ach ach-math" title="Математик"></i></li>
 					<li class="achievements-item"><i class="ach ach-lingvo" title="Лінгвіст"></i></li>
 					<li class="achievements-item"><i class="ach ach-scientist" title="Науковець"></i></li>
+					<li class="achievements-item"><i class="ach ach-nature" title="Винахідник"></i></li>
 					<li class="achievements-item"><i class="ach ach-hero" title="Герой"></i></li>
 					<li class="achievements-item"><i class="ach ach-leader" title="Лідер"></i></li>
 					<li class="achievements-item"><i class="ach ach-ninja" title="Ніндзя"></i></li>
@@ -506,6 +522,7 @@
 					<li class="achievements-item"><i class="ach ach-math" title="Математик"></i></li>
 					<li class="achievements-item"><i class="ach ach-lingvo" title="Лінгвіст"></i></li>
 					<li class="achievements-item"><i class="ach ach-scientist" title="Науковець"></i></li>
+					<li class="achievements-item"><i class="ach ach-nature" title="Винахідник"></i></li>
 					<li class="achievements-item"><i class="ach ach-hero" title="Герой"></i></li>
 					<li class="achievements-item"><i class="ach ach-leader" title="Лідер"></i></li>
 					<li class="achievements-item"><i class="ach ach-ninja" title="Ніндзя"></i></li>
@@ -537,6 +554,7 @@
 					<li class="achievements-item"><i class="ach ach-math" title="Математик"></i></li>
 					<li class="achievements-item"><i class="ach ach-lingvo" title="Лінгвіст"></i></li>
 					<li class="achievements-item"><i class="ach ach-scientist" title="Науковець"></i></li>
+					<li class="achievements-item"><i class="ach ach-nature" title="Винахідник"></i></li>
 					<li class="achievements-item"><i class="ach ach-hero" title="Герой"></i></li>
 					<li class="achievements-item"><i class="ach ach-leader" title="Лідер"></i></li>
 					<li class="achievements-item"><i class="ach ach-ninja" title="Ніндзя"></i></li>
@@ -568,6 +586,7 @@
 					<li class="achievements-item"><i class="ach ach-math" title="Математик"></i></li>
 					<li class="achievements-item"><i class="ach ach-lingvo" title="Лінгвіст"></i></li>
 					<li class="achievements-item"><i class="ach ach-scientist" title="Науковець"></i></li>
+					<li class="achievements-item"><i class="ach ach-nature" title="Винахідник"></i></li>
 					<li class="achievements-item"><i class="ach ach-hero" title="Герой"></i></li>
 					<li class="achievements-item"><i class="ach ach-leader" title="Лідер"></i></li>
 					<li class="achievements-item"><i class="ach ach-ninja" title="Ніндзя"></i></li>
@@ -599,6 +618,7 @@
 					<li class="achievements-item"><i class="ach ach-math" title="Математик"></i></li>
 					<li class="achievements-item"><i class="ach ach-lingvo" title="Лінгвіст"></i></li>
 					<li class="achievements-item"><i class="ach ach-scientist" title="Науковець"></i></li>
+					<li class="achievements-item"><i class="ach ach-nature" title="Винахідник"></i></li>
 					<li class="achievements-item"><i class="ach ach-hero" title="Герой"></i></li>
 					<li class="achievements-item"><i class="ach ach-leader" title="Лідер"></i></li>
 					<li class="achievements-item"><i class="ach ach-ninja" title="Ніндзя"></i></li>
@@ -630,6 +650,7 @@
 					<li class="achievements-item"><i class="ach ach-math" title="Математик"></i></li>
 					<li class="achievements-item"><i class="ach ach-lingvo" title="Лінгвіст"></i></li>
 					<li class="achievements-item"><i class="ach ach-scientist" title="Науковець"></i></li>
+					<li class="achievements-item"><i class="ach ach-nature" title="Винахідник"></i></li>
 					<li class="achievements-item"><i class="ach ach-hero" title="Герой"></i></li>
 					<li class="achievements-item"><i class="ach ach-leader" title="Лідер"></i></li>
 					<li class="achievements-item"><i class="ach ach-ninja" title="Ніндзя"></i></li>
@@ -661,6 +682,7 @@
 					<li class="achievements-item"><i class="ach ach-math" title="Математик"></i></li>
 					<li class="achievements-item"><i class="ach ach-lingvo" title="Лінгвіст"></i></li>
 					<li class="achievements-item"><i class="ach ach-scientist" title="Науковець"></i></li>
+					<li class="achievements-item"><i class="ach ach-nature" title="Винахідник"></i></li>
 					<li class="achievements-item"><i class="ach ach-hero" title="Герой"></i></li>
 					<li class="achievements-item"><i class="ach ach-leader" title="Лідер"></i></li>
 					<li class="achievements-item"><i class="ach ach-ninja" title="Ніндзя"></i></li>
@@ -692,6 +714,7 @@
 					<li class="achievements-item"><i class="ach ach-math" title="Математик"></i></li>
 					<li class="achievements-item"><i class="ach ach-lingvo" title="Лінгвіст"></i></li>
 					<li class="achievements-item"><i class="ach ach-scientist" title="Науковець"></i></li>
+					<li class="achievements-item"><i class="ach ach-nature" title="Винахідник"></i></li>
 					<li class="achievements-item"><i class="ach ach-hero" title="Герой"></i></li>
 					<li class="achievements-item"><i class="ach ach-leader" title="Лідер"></i></li>
 					<li class="achievements-item"><i class="ach ach-ninja" title="Ніндзя"></i></li>
@@ -723,6 +746,7 @@
 					<li class="achievements-item"><i class="ach ach-math" title="Математик"></i></li>
 					<li class="achievements-item"><i class="ach ach-lingvo" title="Лінгвіст"></i></li>
 					<li class="achievements-item"><i class="ach ach-scientist" title="Науковець"></i></li>
+					<li class="achievements-item"><i class="ach ach-nature" title="Винахідник"></i></li>
 					<li class="achievements-item"><i class="ach ach-hero" title="Герой"></i></li>
 					<li class="achievements-item"><i class="ach ach-leader" title="Лідер"></i></li>
 					<li class="achievements-item"><i class="ach ach-ninja" title="Ніндзя"></i></li>
@@ -754,6 +778,7 @@
 					<li class="achievements-item"><i class="ach ach-math" title="Математик"></i></li>
 					<li class="achievements-item"><i class="ach ach-lingvo" title="Лінгвіст"></i></li>
 					<li class="achievements-item"><i class="ach ach-scientist" title="Науковець"></i></li>
+					<li class="achievements-item"><i class="ach ach-nature" title="Винахідник"></i></li>
 					<li class="achievements-item"><i class="ach ach-hero" title="Герой"></i></li>
 					<li class="achievements-item"><i class="ach ach-leader" title="Лідер"></i></li>
 					<li class="achievements-item"><i class="ach ach-ninja" title="Ніндзя"></i></li>
@@ -785,6 +810,7 @@
 					<li class="achievements-item"><i class="ach ach-math" title="Математик"></i></li>
 					<li class="achievements-item"><i class="ach ach-lingvo" title="Лінгвіст"></i></li>
 					<li class="achievements-item"><i class="ach ach-scientist" title="Науковець"></i></li>
+					<li class="achievements-item"><i class="ach ach-nature" title="Винахідник"></i></li>
 					<li class="achievements-item"><i class="ach ach-hero" title="Герой"></i></li>
 					<li class="achievements-item"><i class="ach ach-leader" title="Лідер"></i></li>
 					<li class="achievements-item"><i class="ach ach-ninja" title="Ніндзя"></i></li>
@@ -816,6 +842,7 @@
 					<li class="achievements-item"><i class="ach ach-math" title="Математик"></i></li>
 					<li class="achievements-item"><i class="ach ach-lingvo" title="Лінгвіст"></i></li>
 					<li class="achievements-item"><i class="ach ach-scientist" title="Науковець"></i></li>
+					<li class="achievements-item"><i class="ach ach-nature" title="Винахідник"></i></li>
 					<li class="achievements-item"><i class="ach ach-hero" title="Герой"></i></li>
 					<li class="achievements-item"><i class="ach ach-leader" title="Лідер"></i></li>
 					<li class="achievements-item"><i class="ach ach-ninja" title="Ніндзя"></i></li>
