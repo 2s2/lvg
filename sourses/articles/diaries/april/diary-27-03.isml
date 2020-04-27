@@ -16,21 +16,19 @@
 		<td colspan="4">Математика</td>
 		<td colspan="2">Українська мова</td>
 		<td colspan="2">Літературне читання</td>
-		<td colspan="1">Природознавство</td>
 		<td colspan="1">Рос. мова</td>
 	</tr>
 	<tr class="header">
 		<td></td>
-		<td><a style="box-shadow: none;" href="/">5</a></td>
-		<td><a style="box-shadow: none;" href="/">6</a></td>
-		<td><a style="box-shadow: none;" href="/">7</a></td>
-		<td><a style="box-shadow: none;" href="/">8</a></td>
-		<td><a style="box-shadow: none;" href="/">4-5</a></td>
-		<td><a style="box-shadow: none;" href="/">6</a></td>
-		<td><a style="box-shadow: none;" href="/">1</a></td>
-		<td><a style="box-shadow: none;" href="/">2</a></td>
-		<td><a style="box-shadow: none;" href="/">3</a></td>
-		<td><a style="box-shadow: none;" href="/">3</a></td>
+		<td><a style="box-shadow: none;" href="/math-lesson22/">22</a></td>
+		<td><a style="box-shadow: none;" href="/math-lesson23/">23</a></td>
+		<td><a style="box-shadow: none;" href="/math-lesson24/">24</a></td>
+		<td><a style="box-shadow: none;" href="/math-lesson25/">25</a></td>
+		<td><a style="box-shadow: none;" href="/ua-lesson13/">13</a></td>
+		<td><a style="box-shadow: none;" href="/ua-lesson14/">14</a></td>
+		<td><a style="box-shadow: none;" href="/literature-lesson13/">13</a></td>
+		<td><a style="box-shadow: none;" href="/literature-lesson14/">14</a></td>
+		<td><a style="box-shadow: none;" href="/ros-lesson4/">4</a></td>
 	</tr>
 	<tr>
 		<td>Бурдун Марія
@@ -95,7 +93,6 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td></td>
 	</tr>
 	<tr>
 		<td>Гаврищенко Маргарита
@@ -119,7 +116,6 @@
 				</ul>
 			</div>
 		</td>
-		<td></td>
 		<td></td>
 		<td></td>
 		<td></td>
@@ -161,7 +157,6 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td></td>
 	</tr>
 	<tr>
 		<td>Григорович Аліса
@@ -185,7 +180,6 @@
 				</ul>
 			</div>
 		</td>
-		<td></td>
 		<td></td>
 		<td></td>
 		<td></td>
@@ -227,7 +221,6 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td></td>
 	</tr>
 	<tr>
 		<td>Книш Софія
@@ -251,7 +244,6 @@
 				</ul>
 			</div>
 		</td>
-		<td></td>
 		<td></td>
 		<td></td>
 		<td></td>
@@ -293,7 +285,6 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td></td>
 	</tr>
 	<tr>
 		<td>Козлов Кірілл
@@ -317,7 +308,6 @@
 				</ul>
 			</div>
 		</td>
-		<td></td>
 		<td></td>
 		<td></td>
 		<td></td>
@@ -359,7 +349,6 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td></td>
 	</tr>
 	<tr>
 		<td>Кубенко Владислав
@@ -383,7 +372,6 @@
 				</ul>
 			</div>
 		</td>
-		<td></td>
 		<td></td>
 		<td></td>
 		<td></td>
@@ -425,7 +413,6 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td></td>
 	</tr>
 	<tr>
 		<td>Куліца Михайло
@@ -449,7 +436,6 @@
 				</ul>
 			</div>
 		</td>
-		<td></td>
 		<td></td>
 		<td></td>
 		<td></td>
@@ -491,7 +477,6 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td></td>
 	</tr>
 	<tr>
 		<td>Місан Михаїл
@@ -515,7 +500,6 @@
 				</ul>
 			</div>
 		</td>
-		<td></td>
 		<td></td>
 		<td></td>
 		<td></td>
@@ -557,7 +541,6 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td></td>
 	</tr>
 	<tr>
 		<td>Назаренко Андрій
@@ -581,7 +564,6 @@
 				</ul>
 			</div>
 		</td>
-		<td></td>
 		<td></td>
 		<td></td>
 		<td></td>
@@ -623,7 +605,6 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td></td>
 	</tr>
 	<tr>
 		<td>Рибалко Сергій
@@ -647,7 +628,6 @@
 				</ul>
 			</div>
 		</td>
-		<td></td>
 		<td></td>
 		<td></td>
 		<td></td>
@@ -689,7 +669,6 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td></td>
 	</tr>
 	<tr>
 		<td>Співак Ліна
@@ -713,7 +692,6 @@
 				</ul>
 			</div>
 		</td>
-		<td></td>
 		<td></td>
 		<td></td>
 		<td></td>
@@ -755,7 +733,6 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td></td>
 	</tr>
 	<tr>
 		<td>Хабаров Олексій
@@ -779,7 +756,6 @@
 				</ul>
 			</div>
 		</td>
-		<td></td>
 		<td></td>
 		<td></td>
 		<td></td>
@@ -821,7 +797,6 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td></td>
 	</tr>
 	<tr>
 		<td>Шарова Аріана
@@ -854,7 +829,6 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td></td>
 	</tr>
 	<tr>
 		<td>Янчукова Елла
@@ -878,7 +852,6 @@
 				</ul>
 			</div>
 		</td>
-		<td></td>
 		<td></td>
 		<td></td>
 		<td></td>
