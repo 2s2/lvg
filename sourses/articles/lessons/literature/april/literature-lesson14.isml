@@ -1,0 +1,134 @@
+<h5 class="color-red" style="text-align: center;">Підручник с.с. 167 - 168</h5>
+<!--more-->
+<p>Для самостійного опрацювання.</p>
+<p class="color-blue">Ознайомтесь з короткою біографією М Сингаївського.</p>
+<p class="color-blue">Прочитайте вірш “Вийшов травень з лісу” та проаналізуйте його за планом.</p>
+
+<p><b>Тема:</b></p>
+<div class="checkbox_block">
+    <input type="checkbox" id="checkbox10">
+    <label for="checkbox10">Показати відповідь</label>
+    <blockquote class="checkbox_block-text">поетична розповідь про ознаки останнього весняного місяця.</blockquote>
+</div>
+
+<p><b>Головна думка:</b></p>
+<div class="checkbox_block">
+    <input type="checkbox" id="checkbox11">
+    <label for="checkbox11">Показати відповідь</label>
+    <blockquote class="checkbox_block-text">замилування травневими перетвореннями природи.</blockquote>
+</div>
+
+<p><b>Художні засоби.</b></p>
+<p><b>Уособлення:</b></p>
+<div class="checkbox_block">
+    <input type="checkbox" id="checkbox14">
+    <label for="checkbox14">Показати відповідь</label>
+    <blockquote class="checkbox_block-text">«вийшов травень, лугові вклонився, … нивам усміхнувся, …роззувся, … вчився босим по землі ходити».</blockquote>
+</div>
+
+<p><b>Метафори:</b></p>
+<div class="checkbox_block">
+    <input type="checkbox" id="checkbox15">
+    <label for="checkbox15">Показати відповідь</label>
+    <blockquote class="checkbox_block-text">«з гаю птиці озивались». </blockquote>
+</div>
+
+<p><b>Порівняння:</b></p>
+<div class="checkbox_block">
+    <input type="checkbox" id="checkbox16">
+    <label for="checkbox16">Показати відповідь</label>
+    <blockquote class="checkbox_block-text">«мов хлопча, роззувся».</blockquote>
+</div>
+
+<p><b>Кількість строф:</b></p>
+<div class="checkbox_block">
+    <input type="checkbox" id="checkbox18">
+    <label for="checkbox18">Показати відповідь</label>
+    <blockquote class="checkbox_block-text">чотири.</blockquote>
+</div>
+
+<p><b>Вид строфи:</b></p>
+<div class="checkbox_block">
+    <input type="checkbox" id="checkbox17">
+    <label for="checkbox17">Показати відповідь</label>
+    <blockquote class="checkbox_block-text">двовірш.</blockquote>
+</div>
+
+<p><b>Рими:</b></p>
+<div class="checkbox_block">
+    <input type="checkbox" id="checkbox19">
+    <label for="checkbox19">Показати відповідь</label>
+    <blockquote class="checkbox_block-text">вклонився – зазеленівся, усміхнувся – роззувся, прослались – озивались, квіти – ходити.</blockquote>
+</div>
+
+<p class="color-blue">Прочитайте вірш “На врожай” та проаналізуйте його за планом.</p>
+
+<p><b>Тема:</b></p>
+<div class="checkbox_block">
+    <input type="checkbox" id="checkbox101">
+    <label for="checkbox101">Показати відповідь</label>
+    <blockquote class="checkbox_block-text">поетична розповідь про значення дощу в природі.</blockquote>
+</div>
+
+<p><b>Головна думка:</b></p>
+<div class="checkbox_block">
+    <input type="checkbox" id="checkbox111">
+    <label for="checkbox111">Показати відповідь</label>
+    <blockquote class="checkbox_block-text">«травневий дощ хліба на ноги піднімає».</blockquote>
+</div>
+
+<p><b>Художні засоби.</b></p>
+<p><b>Уособлення:</b></p>
+<div class="checkbox_block">
+    <input type="checkbox" id="checkbox141">
+    <label for="checkbox141">Показати відповідь</label>
+    <blockquote class="checkbox_block-text">«зачастили дощі», «веселка вгорі нас вітає».</blockquote>
+</div>
+
+<p><b>Епітети:</b></p>
+<div class="checkbox_block">
+    <input type="checkbox" id="checkbox151">
+    <label for="checkbox151">Показати відповідь</label>
+    <blockquote class="checkbox_block-text">зелений край, співуча струна, щиру пісню, чудова пора.</blockquote>
+</div>
+
+<p><b>Порівняння:</b></p>
+<div class="checkbox_block">
+    <input type="checkbox" id="checkbox161">
+    <label for="checkbox161">Показати відповідь</label>
+    <blockquote class="checkbox_block-text">«синиця в саду, мов співуча струна».</blockquote>
+</div>
+
+<p><b>Повтори (епіфора):</b></p>
+<div class="checkbox_block">
+    <input type="checkbox" id="checkbox1611">
+    <label for="checkbox1611">Показати відповідь</label>
+    <blockquote class="checkbox_block-text">«…На врожай! На врожай!».</blockquote>
+</div>
+
+<p><b>Риторичні оклики:</b></p>
+<div class="checkbox_block">
+    <input type="checkbox" id="checkbox171">
+    <label for="checkbox171">Показати відповідь</label>
+    <blockquote class="checkbox_block-text">«На врожай! На врожай!».</blockquote>
+</div>
+
+<p><b>Кількість строф:</b></p>
+<div class="checkbox_block">
+    <input type="checkbox" id="checkbox181">
+    <label for="checkbox181">Показати відповідь</label>
+    <blockquote class="checkbox_block-text">п’ять.</blockquote>
+</div>
+
+<p><b>Рими:</b></p>
+<div class="checkbox_block">
+    <input type="checkbox" id="checkbox191">
+    <label for="checkbox191">Показати відповідь</label>
+    <blockquote class="checkbox_block-text">край – врожай, струна – весна, пора – добра, здаля – поля, зважай – врожай.</blockquote>
+</div>
+
+<p>Багато мелодій, написаних на вірші поета М. Сингаївського , стали “співучими”. <br />
+Одна із них - “Чорнобривці” <br />
+Прослухайте її разом з батьками.</p>
+
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/Xun90foUKKA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
