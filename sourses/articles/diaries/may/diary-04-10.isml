@@ -27,8 +27,8 @@
 		<td><a style="box-shadow: none;" href="/math-lesson28/">28</a></td>
 		<td><a style="box-shadow: none;" href="/ua-lesson16/">16</a></td>
 		<td><a style="box-shadow: none;" href="/ua-lesson17/">17</a></td>
-		<td><a style="box-shadow: none;" href="/literature-lesson14/">14</a></td>
-		<td><a style="box-shadow: none;" href="/literature-lesson15/">15</a></td>
+		<td><a style="box-shadow: none;" href="/literature-lesson16/">16</a></td>
+		<td><a style="box-shadow: none;" href="/literature-lesson17/">17</a></td>
 		<td><a style="box-shadow: none;" href="/nature-lesson5/">5</a></td>
 		<td><a style="box-shadow: none;" href="/ros-lesson6/">6</a></td>
 	</tr>
@@ -69,8 +69,8 @@
 		<td>Величко Вікторія
 			<div class="achievements m-diary">
 				<ul class="achievements-list">
-					<li class="achievements-item m-show"><i class="ach ach-lazy_kitty" title="Ледачий котик"></i></li>
-					<li class="achievements-item"><i class="ach ach-beginner" title="Початківець"></i></li>
+					<li class="achievements-item"><i class="ach ach-lazy_kitty" title="Ледачий котик"></i></li>
+					<li class="achievements-item m-show"><i class="ach ach-beginner" title="Початківець"></i></li>
 					<li class="achievements-item"><i class="ach ach-goodman" title="Молодець"></i></li>
 					<li class="achievements-item"><i class="ach ach-smart" title="Знаток"></i></li>
 					<li class="achievements-item"><i class="ach ach-professional" title="Професіонал"></i></li>
@@ -93,7 +93,7 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td></td>
+		<td class="max"></td>
 		<td></td>
 		<td></td>
 		<td></td>
@@ -102,8 +102,8 @@
 		<td>Гаврищенко Маргарита
 			<div class="achievements m-diary">
 				<ul class="achievements-list">
-					<li class="achievements-item m-show"><i class="ach ach-lazy_kitty" title="Ледачий котик"></i></li>
-					<li class="achievements-item"><i class="ach ach-beginner" title="Початківець"></i></li>
+					<li class="achievements-item"><i class="ach ach-lazy_kitty" title="Ледачий котик"></i></li>
+					<li class="achievements-item m-show"><i class="ach ach-beginner" title="Початківець"></i></li>
 					<li class="achievements-item"><i class="ach ach-goodman" title="Молодець"></i></li>
 					<li class="achievements-item"><i class="ach ach-smart" title="Знаток"></i></li>
 					<li class="achievements-item"><i class="ach ach-professional" title="Професіонал"></i></li>
@@ -126,7 +126,7 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td></td>
+		<td class="max"></td>
 		<td></td>
 		<td></td>
 		<td></td>
@@ -135,8 +135,8 @@
 		<td>Герасимов Ренат
 			<div class="achievements m-diary">
 				<ul class="achievements-list">
-					<li class="achievements-item m-show"><i class="ach ach-lazy_kitty" title="Ледачий котик"></i></li>
-					<li class="achievements-item"><i class="ach ach-beginner" title="Початківець"></i></li>
+					<li class="achievements-item"><i class="ach ach-lazy_kitty" title="Ледачий котик"></i></li>
+					<li class="achievements-item m-show"><i class="ach ach-beginner" title="Початківець"></i></li>
 					<li class="achievements-item"><i class="ach ach-goodman" title="Молодець"></i></li>
 					<li class="achievements-item"><i class="ach ach-smart" title="Знаток"></i></li>
 					<li class="achievements-item"><i class="ach ach-professional" title="Професіонал"></i></li>
@@ -159,7 +159,7 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td></td>
+		<td class="max"></td>
 		<td></td>
 		<td></td>
 		<td></td>
@@ -168,8 +168,8 @@
 		<td>Григорович Аліса
 			<div class="achievements m-diary">
 				<ul class="achievements-list">
-					<li class="achievements-item m-show"><i class="ach ach-lazy_kitty" title="Ледачий котик"></i></li>
-					<li class="achievements-item"><i class="ach ach-beginner" title="Початківець"></i></li>
+					<li class="achievements-item"><i class="ach ach-lazy_kitty" title="Ледачий котик"></i></li>
+					<li class="achievements-item m-show"><i class="ach ach-beginner" title="Початківець"></i></li>
 					<li class="achievements-item"><i class="ach ach-goodman" title="Молодець"></i></li>
 					<li class="achievements-item"><i class="ach ach-smart" title="Знаток"></i></li>
 					<li class="achievements-item"><i class="ach ach-professional" title="Професіонал"></i></li>
@@ -192,7 +192,7 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td></td>
+		<td class="max"></td>
 		<td></td>
 		<td></td>
 		<td></td>
@@ -201,8 +201,8 @@
 		<td>Карпелюк Богдан
 			<div class="achievements m-diary">
 				<ul class="achievements-list">
-					<li class="achievements-item m-show"><i class="ach ach-lazy_kitty" title="Ледачий котик"></i></li>
-					<li class="achievements-item"><i class="ach ach-beginner" title="Початківець"></i></li>
+					<li class="achievements-item"><i class="ach ach-lazy_kitty" title="Ледачий котик"></i></li>
+					<li class="achievements-item m-show"><i class="ach ach-beginner" title="Початківець"></i></li>
 					<li class="achievements-item"><i class="ach ach-goodman" title="Молодець"></i></li>
 					<li class="achievements-item"><i class="ach ach-smart" title="Знаток"></i></li>
 					<li class="achievements-item"><i class="ach ach-professional" title="Професіонал"></i></li>
@@ -210,7 +210,7 @@
 					<li class="achievements-item"><i class="ach ach-lingvo" title="Лінгвіст"></i></li>
 					<li class="achievements-item"><i class="ach ach-scientist" title="Науковець"></i></li>
 					<li class="achievements-item"><i class="ach ach-nature" title="Винахідник"></i></li>
-					<li class="achievements-item"><i class="ach ach-hero" title="Герой"></i></li>
+					<li class="achievements-item m-show"><i class="ach ach-hero" title="Герой"></i></li>
 					<li class="achievements-item"><i class="ach ach-leader" title="Лідер"></i></li>
 					<li class="achievements-item"><i class="ach ach-ninja" title="Ніндзя"></i></li>
 					<li class="achievements-item"><i class="ach ach-super_ninja" title="Супер ніндзя"></i></li>
@@ -225,7 +225,7 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td></td>
+		<td class="max"></td>
 		<td></td>
 		<td></td>
 		<td></td>
@@ -267,8 +267,8 @@
 		<td>Козаченко Вероніка
 			<div class="achievements m-diary">
 				<ul class="achievements-list">
-					<li class="achievements-item m-show"><i class="ach ach-lazy_kitty" title="Ледачий котик"></i></li>
-					<li class="achievements-item"><i class="ach ach-beginner" title="Початківець"></i></li>
+					<li class="achievements-item"><i class="ach ach-lazy_kitty" title="Ледачий котик"></i></li>
+					<li class="achievements-item m-show"><i class="ach ach-beginner" title="Початківець"></i></li>
 					<li class="achievements-item"><i class="ach ach-goodman" title="Молодець"></i></li>
 					<li class="achievements-item"><i class="ach ach-smart" title="Знаток"></i></li>
 					<li class="achievements-item"><i class="ach ach-professional" title="Професіонал"></i></li>
@@ -291,7 +291,7 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td></td>
+		<td class="max"></td>
 		<td></td>
 		<td></td>
 		<td></td>
@@ -300,8 +300,8 @@
 		<td>Козлов Кірілл
 			<div class="achievements m-diary">
 				<ul class="achievements-list">
-					<li class="achievements-item m-show"><i class="ach ach-lazy_kitty" title="Ледачий котик"></i></li>
-					<li class="achievements-item"><i class="ach ach-beginner" title="Початківець"></i></li>
+					<li class="achievements-item"><i class="ach ach-lazy_kitty" title="Ледачий котик"></i></li>
+					<li class="achievements-item m-show"><i class="ach ach-beginner" title="Початківець"></i></li>
 					<li class="achievements-item"><i class="ach ach-goodman" title="Молодець"></i></li>
 					<li class="achievements-item"><i class="ach ach-smart" title="Знаток"></i></li>
 					<li class="achievements-item"><i class="ach ach-professional" title="Професіонал"></i></li>
@@ -324,7 +324,7 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td></td>
+		<td class="green"></td>
 		<td></td>
 		<td></td>
 		<td></td>
@@ -333,8 +333,8 @@
 		<td>Колосов Роман
 			<div class="achievements m-diary">
 				<ul class="achievements-list">
-					<li class="achievements-item m-show"><i class="ach ach-lazy_kitty" title="Ледачий котик"></i></li>
-					<li class="achievements-item"><i class="ach ach-beginner" title="Початківець"></i></li>
+					<li class="achievements-item"><i class="ach ach-lazy_kitty" title="Ледачий котик"></i></li>
+					<li class="achievements-item m-show"><i class="ach ach-beginner" title="Початківець"></i></li>
 					<li class="achievements-item"><i class="ach ach-goodman" title="Молодець"></i></li>
 					<li class="achievements-item"><i class="ach ach-smart" title="Знаток"></i></li>
 					<li class="achievements-item"><i class="ach ach-professional" title="Професіонал"></i></li>
@@ -357,7 +357,7 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td></td>
+		<td class="max"></td>
 		<td></td>
 		<td></td>
 		<td></td>
@@ -366,8 +366,8 @@
 		<td>Кубенко Владислав
 			<div class="achievements m-diary">
 				<ul class="achievements-list">
-					<li class="achievements-item m-show"><i class="ach ach-lazy_kitty" title="Ледачий котик"></i></li>
-					<li class="achievements-item"><i class="ach ach-beginner" title="Початківець"></i></li>
+					<li class="achievements-item"><i class="ach ach-lazy_kitty" title="Ледачий котик"></i></li>
+					<li class="achievements-item m-show"><i class="ach ach-beginner" title="Початківець"></i></li>
 					<li class="achievements-item"><i class="ach ach-goodman" title="Молодець"></i></li>
 					<li class="achievements-item"><i class="ach ach-smart" title="Знаток"></i></li>
 					<li class="achievements-item"><i class="ach ach-professional" title="Професіонал"></i></li>
@@ -390,7 +390,7 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td></td>
+		<td class="max"></td>
 		<td></td>
 		<td></td>
 		<td></td>
@@ -399,8 +399,8 @@
 		<td>Кукол Андрій
 			<div class="achievements m-diary">
 				<ul class="achievements-list">
-					<li class="achievements-item m-show"><i class="ach ach-lazy_kitty" title="Ледачий котик"></i></li>
-					<li class="achievements-item"><i class="ach ach-beginner" title="Початківець"></i></li>
+					<li class="achievements-item"><i class="ach ach-lazy_kitty" title="Ледачий котик"></i></li>
+					<li class="achievements-item m-show"><i class="ach ach-beginner" title="Початківець"></i></li>
 					<li class="achievements-item"><i class="ach ach-goodman" title="Молодець"></i></li>
 					<li class="achievements-item"><i class="ach ach-smart" title="Знаток"></i></li>
 					<li class="achievements-item"><i class="ach ach-professional" title="Професіонал"></i></li>
@@ -408,8 +408,8 @@
 					<li class="achievements-item"><i class="ach ach-lingvo" title="Лінгвіст"></i></li>
 					<li class="achievements-item"><i class="ach ach-scientist" title="Науковець"></i></li>
 					<li class="achievements-item"><i class="ach ach-nature" title="Винахідник"></i></li>
-					<li class="achievements-item"><i class="ach ach-hero" title="Герой"></i></li>
-					<li class="achievements-item"><i class="ach ach-leader" title="Лідер"></i></li>
+					<li class="achievements-item m-show"><i class="ach ach-hero" title="Герой"></i></li>
+					<li class="achievements-item m-show"><i class="ach ach-leader" title="Лідер"></i></li>
 					<li class="achievements-item"><i class="ach ach-ninja" title="Ніндзя"></i></li>
 					<li class="achievements-item"><i class="ach ach-super_ninja" title="Супер ніндзя"></i></li>
 					<li class="achievements-item"><i class="ach ach-terminator" title="Термінатор"></i></li>
@@ -423,7 +423,7 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td></td>
+		<td class="max"></td>
 		<td></td>
 		<td></td>
 		<td></td>
@@ -432,8 +432,8 @@
 		<td>Куліца Михайло
 			<div class="achievements m-diary">
 				<ul class="achievements-list">
-					<li class="achievements-item m-show"><i class="ach ach-lazy_kitty" title="Ледачий котик"></i></li>
-					<li class="achievements-item"><i class="ach ach-beginner" title="Початківець"></i></li>
+					<li class="achievements-item"><i class="ach ach-lazy_kitty" title="Ледачий котик"></i></li>
+					<li class="achievements-item m-show"><i class="ach ach-beginner" title="Початківець"></i></li>
 					<li class="achievements-item"><i class="ach ach-goodman" title="Молодець"></i></li>
 					<li class="achievements-item"><i class="ach ach-smart" title="Знаток"></i></li>
 					<li class="achievements-item"><i class="ach ach-professional" title="Професіонал"></i></li>
@@ -456,7 +456,7 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td></td>
+		<td class="max"></td>
 		<td></td>
 		<td></td>
 		<td></td>
@@ -498,8 +498,8 @@
 		<td>Місан Михаїл
 			<div class="achievements m-diary">
 				<ul class="achievements-list">
-					<li class="achievements-item m-show"><i class="ach ach-lazy_kitty" title="Ледачий котик"></i></li>
-					<li class="achievements-item"><i class="ach ach-beginner" title="Початківець"></i></li>
+					<li class="achievements-item"><i class="ach ach-lazy_kitty" title="Ледачий котик"></i></li>
+					<li class="achievements-item m-show"><i class="ach ach-beginner" title="Початківець"></i></li>
 					<li class="achievements-item"><i class="ach ach-goodman" title="Молодець"></i></li>
 					<li class="achievements-item"><i class="ach ach-smart" title="Знаток"></i></li>
 					<li class="achievements-item"><i class="ach ach-professional" title="Професіонал"></i></li>
@@ -522,7 +522,7 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td></td>
+		<td class="max"></td>
 		<td></td>
 		<td></td>
 		<td></td>
@@ -531,8 +531,8 @@
 		<td>Могилевець Семен
 			<div class="achievements m-diary">
 				<ul class="achievements-list">
-					<li class="achievements-item m-show"><i class="ach ach-lazy_kitty" title="Ледачий котик"></i></li>
-					<li class="achievements-item"><i class="ach ach-beginner" title="Початківець"></i></li>
+					<li class="achievements-item"><i class="ach ach-lazy_kitty" title="Ледачий котик"></i></li>
+					<li class="achievements-item m-show"><i class="ach ach-beginner" title="Початківець"></i></li>
 					<li class="achievements-item"><i class="ach ach-goodman" title="Молодець"></i></li>
 					<li class="achievements-item"><i class="ach ach-smart" title="Знаток"></i></li>
 					<li class="achievements-item"><i class="ach ach-professional" title="Професіонал"></i></li>
@@ -555,7 +555,7 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td></td>
+		<td class="max"></td>
 		<td></td>
 		<td></td>
 		<td></td>
@@ -564,8 +564,8 @@
 		<td>Назаренко Андрій
 			<div class="achievements m-diary">
 				<ul class="achievements-list">
-					<li class="achievements-item m-show"><i class="ach ach-lazy_kitty" title="Ледачий котик"></i></li>
-					<li class="achievements-item"><i class="ach ach-beginner" title="Початківець"></i></li>
+					<li class="achievements-item"><i class="ach ach-lazy_kitty" title="Ледачий котик"></i></li>
+					<li class="achievements-item m-show"><i class="ach ach-beginner" title="Початківець"></i></li>
 					<li class="achievements-item"><i class="ach ach-goodman" title="Молодець"></i></li>
 					<li class="achievements-item"><i class="ach ach-smart" title="Знаток"></i></li>
 					<li class="achievements-item"><i class="ach ach-professional" title="Професіонал"></i></li>
@@ -573,7 +573,7 @@
 					<li class="achievements-item"><i class="ach ach-lingvo" title="Лінгвіст"></i></li>
 					<li class="achievements-item"><i class="ach ach-scientist" title="Науковець"></i></li>
 					<li class="achievements-item"><i class="ach ach-nature" title="Винахідник"></i></li>
-					<li class="achievements-item"><i class="ach ach-hero" title="Герой"></i></li>
+					<li class="achievements-item m-show"><i class="ach ach-hero" title="Герой"></i></li>
 					<li class="achievements-item"><i class="ach ach-leader" title="Лідер"></i></li>
 					<li class="achievements-item"><i class="ach ach-ninja" title="Ніндзя"></i></li>
 					<li class="achievements-item"><i class="ach ach-super_ninja" title="Супер ніндзя"></i></li>
@@ -588,7 +588,7 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td></td>
+		<td class="max"></td>
 		<td></td>
 		<td></td>
 		<td></td>
@@ -597,8 +597,8 @@
 		<td>Нікішенко Володимир
 			<div class="achievements m-diary">
 				<ul class="achievements-list">
-					<li class="achievements-item m-show"><i class="ach ach-lazy_kitty" title="Ледачий котик"></i></li>
-					<li class="achievements-item"><i class="ach ach-beginner" title="Початківець"></i></li>
+					<li class="achievements-item"><i class="ach ach-lazy_kitty" title="Ледачий котик"></i></li>
+					<li class="achievements-item m-show"><i class="ach ach-beginner" title="Початківець"></i></li>
 					<li class="achievements-item"><i class="ach ach-goodman" title="Молодець"></i></li>
 					<li class="achievements-item"><i class="ach ach-smart" title="Знаток"></i></li>
 					<li class="achievements-item"><i class="ach ach-professional" title="Професіонал"></i></li>
@@ -621,7 +621,7 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td></td>
+		<td class="max"></td>
 		<td></td>
 		<td></td>
 		<td></td>
@@ -630,8 +630,8 @@
 		<td>Рибалко Сергій
 			<div class="achievements m-diary">
 				<ul class="achievements-list">
-					<li class="achievements-item m-show"><i class="ach ach-lazy_kitty" title="Ледачий котик"></i></li>
-					<li class="achievements-item"><i class="ach ach-beginner" title="Початківець"></i></li>
+					<li class="achievements-item"><i class="ach ach-lazy_kitty" title="Ледачий котик"></i></li>
+					<li class="achievements-item m-show"><i class="ach ach-beginner" title="Початківець"></i></li>
 					<li class="achievements-item"><i class="ach ach-goodman" title="Молодець"></i></li>
 					<li class="achievements-item"><i class="ach ach-smart" title="Знаток"></i></li>
 					<li class="achievements-item"><i class="ach ach-professional" title="Професіонал"></i></li>
@@ -654,7 +654,7 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td></td>
+		<td class="max"></td>
 		<td></td>
 		<td></td>
 		<td></td>
@@ -663,8 +663,8 @@
 		<td>Севастьянов Ілля
 			<div class="achievements m-diary">
 				<ul class="achievements-list">
-					<li class="achievements-item m-show"><i class="ach ach-lazy_kitty" title="Ледачий котик"></i></li>
-					<li class="achievements-item"><i class="ach ach-beginner" title="Початківець"></i></li>
+					<li class="achievements-item"><i class="ach ach-lazy_kitty" title="Ледачий котик"></i></li>
+					<li class="achievements-item m-show"><i class="ach ach-beginner" title="Початківець"></i></li>
 					<li class="achievements-item"><i class="ach ach-goodman" title="Молодець"></i></li>
 					<li class="achievements-item"><i class="ach ach-smart" title="Знаток"></i></li>
 					<li class="achievements-item"><i class="ach ach-professional" title="Професіонал"></i></li>
@@ -687,7 +687,7 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td></td>
+		<td class="max"></td>
 		<td></td>
 		<td></td>
 		<td></td>
@@ -696,8 +696,8 @@
 		<td>Співак Ліна
 			<div class="achievements m-diary">
 				<ul class="achievements-list">
-					<li class="achievements-item m-show"><i class="ach ach-lazy_kitty" title="Ледачий котик"></i></li>
-					<li class="achievements-item"><i class="ach ach-beginner" title="Початківець"></i></li>
+					<li class="achievements-item"><i class="ach ach-lazy_kitty" title="Ледачий котик"></i></li>
+					<li class="achievements-item m-show"><i class="ach ach-beginner" title="Початківець"></i></li>
 					<li class="achievements-item"><i class="ach ach-goodman" title="Молодець"></i></li>
 					<li class="achievements-item"><i class="ach ach-smart" title="Знаток"></i></li>
 					<li class="achievements-item"><i class="ach ach-professional" title="Професіонал"></i></li>
@@ -720,7 +720,7 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td></td>
+		<td class="max"></td>
 		<td></td>
 		<td></td>
 		<td></td>
@@ -729,8 +729,8 @@
 		<td>Трощинська Аліна
 			<div class="achievements m-diary">
 				<ul class="achievements-list">
-					<li class="achievements-item m-show"><i class="ach ach-lazy_kitty" title="Ледачий котик"></i></li>
-					<li class="achievements-item"><i class="ach ach-beginner" title="Початківець"></i></li>
+					<li class="achievements-item"><i class="ach ach-lazy_kitty" title="Ледачий котик"></i></li>
+					<li class="achievements-item m-show"><i class="ach ach-beginner" title="Початківець"></i></li>
 					<li class="achievements-item"><i class="ach ach-goodman" title="Молодець"></i></li>
 					<li class="achievements-item"><i class="ach ach-smart" title="Знаток"></i></li>
 					<li class="achievements-item"><i class="ach ach-professional" title="Професіонал"></i></li>
@@ -753,7 +753,7 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td></td>
+		<td class="max"></td>
 		<td></td>
 		<td></td>
 		<td></td>
@@ -762,8 +762,8 @@
 		<td>Хабаров Олексій
 			<div class="achievements m-diary">
 				<ul class="achievements-list">
-					<li class="achievements-item m-show"><i class="ach ach-lazy_kitty" title="Ледачий котик"></i></li>
-					<li class="achievements-item"><i class="ach ach-beginner" title="Початківець"></i></li>
+					<li class="achievements-item"><i class="ach ach-lazy_kitty" title="Ледачий котик"></i></li>
+					<li class="achievements-item m-show"><i class="ach ach-beginner" title="Початківець"></i></li>
 					<li class="achievements-item"><i class="ach ach-goodman" title="Молодець"></i></li>
 					<li class="achievements-item"><i class="ach ach-smart" title="Знаток"></i></li>
 					<li class="achievements-item"><i class="ach ach-professional" title="Професіонал"></i></li>
@@ -786,7 +786,7 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td></td>
+		<td class="max"></td>
 		<td></td>
 		<td></td>
 		<td></td>
@@ -795,8 +795,8 @@
 		<td>Честнєйшина Анастасія
 			<div class="achievements m-diary">
 				<ul class="achievements-list">
-					<li class="achievements-item m-show"><i class="ach ach-lazy_kitty" title="Ледачий котик"></i></li>
-					<li class="achievements-item"><i class="ach ach-beginner" title="Початківець"></i></li>
+					<li class="achievements-item"><i class="ach ach-lazy_kitty" title="Ледачий котик"></i></li>
+					<li class="achievements-item m-show"><i class="ach ach-beginner" title="Початківець"></i></li>
 					<li class="achievements-item"><i class="ach ach-goodman" title="Молодець"></i></li>
 					<li class="achievements-item"><i class="ach ach-smart" title="Знаток"></i></li>
 					<li class="achievements-item"><i class="ach ach-professional" title="Професіонал"></i></li>
@@ -804,7 +804,7 @@
 					<li class="achievements-item"><i class="ach ach-lingvo" title="Лінгвіст"></i></li>
 					<li class="achievements-item"><i class="ach ach-scientist" title="Науковець"></i></li>
 					<li class="achievements-item"><i class="ach ach-nature" title="Винахідник"></i></li>
-					<li class="achievements-item"><i class="ach ach-hero" title="Герой"></i></li>
+					<li class="achievements-item m-show"><i class="ach ach-hero" title="Герой"></i></li>
 					<li class="achievements-item"><i class="ach ach-leader" title="Лідер"></i></li>
 					<li class="achievements-item"><i class="ach ach-ninja" title="Ніндзя"></i></li>
 					<li class="achievements-item"><i class="ach ach-super_ninja" title="Супер ніндзя"></i></li>
@@ -819,7 +819,7 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td></td>
+		<td class="max"></td>
 		<td></td>
 		<td></td>
 		<td></td>
@@ -861,8 +861,8 @@
 		<td>Янчукова Елла
 			<div class="achievements m-diary">
 				<ul class="achievements-list">
-					<li class="achievements-item m-show"><i class="ach ach-lazy_kitty" title="Ледачий котик"></i></li>
-					<li class="achievements-item"><i class="ach ach-beginner" title="Початківець"></i></li>
+					<li class="achievements-item"><i class="ach ach-lazy_kitty" title="Ледачий котик"></i></li>
+					<li class="achievements-item m-show"><i class="ach ach-beginner" title="Початківець"></i></li>
 					<li class="achievements-item"><i class="ach ach-goodman" title="Молодець"></i></li>
 					<li class="achievements-item"><i class="ach ach-smart" title="Знаток"></i></li>
 					<li class="achievements-item"><i class="ach ach-professional" title="Професіонал"></i></li>
@@ -870,7 +870,7 @@
 					<li class="achievements-item"><i class="ach ach-lingvo" title="Лінгвіст"></i></li>
 					<li class="achievements-item"><i class="ach ach-scientist" title="Науковець"></i></li>
 					<li class="achievements-item"><i class="ach ach-nature" title="Винахідник"></i></li>
-					<li class="achievements-item"><i class="ach ach-hero" title="Герой"></i></li>
+					<li class="achievements-item m-show"><i class="ach ach-hero" title="Герой"></i></li>
 					<li class="achievements-item"><i class="ach ach-leader" title="Лідер"></i></li>
 					<li class="achievements-item"><i class="ach ach-ninja" title="Ніндзя"></i></li>
 					<li class="achievements-item"><i class="ach ach-super_ninja" title="Супер ніндзя"></i></li>
@@ -885,7 +885,7 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td></td>
+		<td class="max"></td>
 		<td></td>
 		<td></td>
 		<td></td>
