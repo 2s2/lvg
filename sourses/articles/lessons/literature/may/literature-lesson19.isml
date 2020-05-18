@@ -1,0 +1,174 @@
+<!--more-->
+<p>Для самостійного опрацювання.</p>
+<p class="color-blue">Прочитай вірш Анатолія Костецького «Імена».</p>
+
+<p>Про що мріє хлопчик?</p>
+<div class="checkbox_block">
+    <input type="checkbox" id="checkbox101">
+    <label for="checkbox101">Показати відповідь</label>
+    <blockquote class="checkbox_block-text">«Я хотів би страшенно, як хочете знати, все у світі по-своєму знову назвати».</blockquote>
+</div>
+
+<p>Поміркуй, за якими ознаками автор волошку назвав голубинкою</p>
+<div class="checkbox_block">
+    <input type="checkbox" id="checkbox111">
+    <label for="checkbox111">Показати відповідь</label>
+    <blockquote class="checkbox_block-text">блакитні пелюстки квітки</blockquote>
+</div>
+
+<p>- дітей — любенятами</p>
+<div class="checkbox_block">
+    <input type="checkbox" id="checkbox141">
+    <label for="checkbox141">Показати відповідь</label>
+    <blockquote class="checkbox_block-text">маленькі улюбленці для батьків</blockquote>
+</div>
+
+<p>- тополю — лопотулею</p>
+<div class="checkbox_block">
+    <input type="checkbox" id="checkbox151">
+    <label for="checkbox151">Показати відповідь</label>
+    <blockquote class="checkbox_block-text">листя тополі у вітряну погоду лопоче, або шерехтить</blockquote>
+</div>
+
+<p>- а бабусю — любусею.</p>
+<div class="checkbox_block">
+    <input type="checkbox" id="checkbox161">
+    <label for="checkbox161">Показати відповідь</label>
+    <blockquote class="checkbox_block-text">люба бабуся</blockquote>
+</div>
+
+<p>Які почуття він укладає в нові імена?</p>
+<div class="checkbox_block">
+    <input type="checkbox" id="checkbox1611">
+    <label for="checkbox1611">Показати відповідь</label>
+    <blockquote class="checkbox_block-text">Любов, ніжність, лагідність, радість.</blockquote>
+</div>
+
+<p>Спробуй дібрати нові імена для мами, песика, ромашки.</b></p>
+<div class="checkbox_block">
+    <input type="checkbox" id="checkbox171">
+    <label for="checkbox171">Показати відповідь</label>
+    <blockquote class="checkbox_block-text">Мама – золотомама, любоматуся.  Песик – гавченя, гавченятко. Ромашка – сонцевіноченька, жовтоличка.</blockquote>
+</div>
+
+<h5>Аналіз вірша Анатолія Костецького «Імена».</h5>
+
+<p><b>Тема:</b></p>
+<div class="checkbox_block">
+    <input type="checkbox" id="checkbox10">
+    <label for="checkbox10">Показати відповідь</label>
+    <blockquote class="checkbox_block-text">поетична розповідь про ліричного героя, який з любов'ю придумував нові імена.</blockquote>
+</div>
+
+<p><b>Головна думка:</b></p>
+<div class="checkbox_block">
+    <input type="checkbox" id="checkbox11">
+    <label for="checkbox11">Показати відповідь</label>
+    <blockquote class="checkbox_block-text">«речей безіменних на світі нема».</blockquote>
+</div>
+
+<p><b>Художні засоби.</b></p>
+<p><b>Епітети:</b></p>
+<div class="checkbox_block">
+    <input type="checkbox" id="checkbox14">
+    <label for="checkbox14">Показати відповідь</label>
+    <blockquote class="checkbox_block-text">ласкаву тополю, голубинкові очі.</blockquote>
+</div>
+
+<p><b>Уособлення:</b></p>
+<div class="checkbox_block">
+    <input type="checkbox" id="checkbox16">
+    <label for="checkbox16">Показати відповідь</label>
+    <blockquote class="checkbox_block-text">тополя для птахів дарувала притулок, цвіли очі, співала лопотуля.</blockquote>
+</div>
+
+<p><b>Метафора:</b></p>
+<div class="checkbox_block">
+    <input type="checkbox" id="checkbox15">
+    <label for="checkbox15">Показати відповідь</label>
+    <blockquote class="checkbox_block-text">«світилася ніжністю кожна бабуся».</blockquote>
+</div>
+
+<p><b>Кількість строф:</b></p>
+<div class="checkbox_block">
+    <input type="checkbox" id="checkbox18">
+    <label for="checkbox18">Показати відповідь</label>
+    <blockquote class="checkbox_block-text">п’ять.</blockquote>
+</div>
+
+<p><b>Рими:</b></p>
+<div class="checkbox_block">
+    <input type="checkbox" id="checkbox19">
+    <label for="checkbox19">Показати відповідь</label>
+    <blockquote class="checkbox_block-text">знати – назвати, любинята – гуляти, любуся – бабуся, очі – охоче, лопотуля – почули, нема – імена.</blockquote>
+</div>
+
+<h5 class="color-red" style="text-align: center;">Підручник с. 174</h5>
+
+<p class="color-blue">Прочитай вірш Анатолія Костецького «Дивна звичка».</p>
+
+<p>Що турбувало батьків хлопчика?</p>
+<div class="checkbox_block">
+    <input type="checkbox" id="checkbox1023">
+    <label for="checkbox1023">Показати відповідь</label>
+    <blockquote class="checkbox_block-text">Замість відповідної правильної відповіді, хлопчик відповідав невпопад римами.</blockquote>
+</div>
+
+<p>Чи можна назвати цей вірш гумористичним?</p>
+<div class="checkbox_block">
+    <input type="checkbox" id="checkbox1123">
+    <label for="checkbox1123">Показати відповідь</label>
+    <blockquote class="checkbox_block-text">У вірші висміюється легковажний підхід хлопчика до поезії.</blockquote>
+</div>
+
+<p>Які рими видались тобі смішними, несподіваними?</p>
+<div class="checkbox_block">
+    <input type="checkbox" id="checkbox1423">
+    <label for="checkbox1423">Показати відповідь</label>
+    <blockquote class="checkbox_block-text">Усі рими смішні, адже звучать вони невпопад до поставлених запитань.</blockquote>
+</div>
+
+<h5>Аналіз вірша Анатолія Костецького «Дивна звичка».</h5>
+
+<p><b>Тема:</b></p>
+<div class="checkbox_block">
+    <input type="checkbox" id="checkbox1013">
+    <label for="checkbox1013">Показати відповідь</label>
+    <blockquote class="checkbox_block-text">поетична розповідь про те, як ліричний герой підбирав риму.</blockquote>
+</div>
+
+<p><b>Головна думка:</b></p>
+<div class="checkbox_block">
+    <input type="checkbox" id="checkbox1113">
+    <label for="checkbox1113">Показати відповідь</label>
+    <blockquote class="checkbox_block-text">поезія – це не набір слів.</blockquote>
+</div>
+
+<p><b>Художні засоби.</b></p>
+<p><b>Уособлення:</b></p>
+<div class="checkbox_block">
+    <input type="checkbox" id="checkbox1413">
+    <label for="checkbox1413">Показати відповідь</label>
+    <blockquote class="checkbox_block-text">«чомусь до голови лізуть рими й рими».</blockquote>
+</div>
+
+<p><b>Порівняння:</b></p>
+<div class="checkbox_block">
+    <input type="checkbox" id="checkbox1713">
+    <label for="checkbox1713">Показати відповідь</label>
+    <blockquote class="checkbox_block-text">«шукаю рими, ніби хтось мене завів...».</blockquote>
+</div>
+
+<p><b>Кількість строф:</b></p>
+<div class="checkbox_block">
+    <input type="checkbox" id="checkbox1813">
+    <label for="checkbox1813">Показати відповідь</label>
+    <blockquote class="checkbox_block-text">дев'ять.</blockquote>
+</div>
+
+<p><b>Рими:</b></p>
+<div class="checkbox_block">
+    <input type="checkbox" id="checkbox1913">
+    <label for="checkbox1913">Показати відповідь</label>
+    <blockquote class="checkbox_block-text">говорили – рими, вчителів – завів, уроки – сороки, поїв – корів, дошки – ложка, вдома – солому, очі – хочу, мене – мине, спить – мить, хвилювання – Ваню, пробачте – плачте.</blockquote>
+</div>
